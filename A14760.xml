@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods arrovves, or, Two sermons, concerning the visitation of God by the pestilence Very profitable to be read at all times, but especially in the time of Gods visitation. By William Warde minister of the word of God.</title>
+            <author>Ward, William, d. 1632.</author>
+         </titleStmt>
+         <extent>Approx. 109KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A14760</idno><idno type="EEBO-CITATION">99854678</idno>
+  <idno type="VID">20114</idno>
+  <idno type="EEBO-PROQUEST">2240913146</idno>
+  <idno type="STC">STC 25057</idno>
+  <idno type="STC">ESTC S119471</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854678e"/>
+            <note>(EEBO-TCP ; phase 2, no. A14760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1045:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods arrovves, or, Two sermons, concerning the visitation of God by the pestilence Very profitable to be read at all times, but especially in the time of Gods visitation. By William Warde minister of the word of God.</title>
+                  <author>Ward, William, d. 1632.</author>
+               </titleStmt>
+               <extent>[4], 41, [1] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Ballard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank except for signature-mark "A"; the last leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20114:1"/>
+            <pb facs="tcp:20114:1"/>
+            <p>GODS ARROWES, OR, Two Sermons, concerning the visitation of God by the Pestilence.</p>
+            <p>
+               <hi>Very profitable to be read at all times, but especially in the time of Gods visitation.</hi>
+            </p>
+            <p>By <hi>William Warde</hi> Minister of the word of God.</p>
+            <q>
+               <bibl>Deut. 32. 23.</bibl>
+               <p>
+                  <hi>I will spend plagues vpon them; I will bestow mine Arrowes vpon them.</hi>
+               </p>
+            </q>
+            <p>❧ <hi>London, printed by</hi> HENRY BALLARD.</p>
+            <p>1607.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:20114:2"/>
+            <pb facs="tcp:20114:2"/>
+            <pb facs="tcp:20114:3"/>
+            <pb facs="tcp:20114:3"/>
+            <head>TO THE right VVorshipfull, Sir <hi>William Skipwith</hi> knight, and one of his Maiesties Iusti<g ref="char:EOLhyphen"/>ces of the peace in the county of <hi>Leicester,</hi> the rich blessings of God, to his comfort in this life, and eternall saluation in the life to come.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hese two ser<g ref="char:EOLhyphen"/>mons (right worshipfull) were penned by me, at the instance of a neere friend, presently after they were preached, but (I protest) not with a purpose euer to haue had them put foorth in print.
+<pb facs="tcp:20114:4"/> Notwithstanding, the partie that hath them in possession, is growen so resolute, that they shall to the presse, (how vnpol<g ref="char:EOLhyphen"/>lished soeuer) that I am com<g ref="char:EOLhyphen"/>pelled to yeelde thereto, though against my will, because I see no remedy. Onely thus much, I haue obtained, that they may go foorth vnder your protection, to whom next vnder God, I am beholding, and from whom, to<g ref="char:EOLhyphen"/>gether with your deceased fa<g ref="char:EOLhyphen"/>ther, I haue receiued maynte<g ref="char:EOLhyphen"/>nance, and vnder whom I haue spent my time by labouring in the Lords vineyard now full twenty and seuen yeeres: Per<g ref="char:EOLhyphen"/>swading my selfe, that as you loue the Word, and the teachers
+<pb facs="tcp:20114:4"/> thereof, so you will vouchsafe to accept of this my litle worke, though simple, yet agreeable to the sincere word of God, not so much respecting the worke-man far vnworthy to vndergo such a waight, as in regard of him who first opened my mouth, and made me able to deliuer it to his people. And the rather for that, as the Euangelist Saint Luke did of loue, (being inspi<g ref="char:EOLhyphen"/>red therunto by the holy Ghost) dedicate his booke to the most noble Theophilus: so I, though no way by the abundance of Gods Spirit so enabled, yet ac<g ref="char:EOLhyphen"/>cording to that piece of a Talent giuen me of the Lord, haue out of that dutifull loue I alwayes
+<pb facs="tcp:20114:5"/> bare towards you, presumed to commend vnto you these abor<g ref="char:EOLhyphen"/>tiue first fruits of my publique abours by writing, presented like the widowes mite into the treasury of your fauourable tu<g ref="char:EOLhyphen"/>ition, to be protected from the poyson of Momus and Zoilus, and others of that viperous brood. And thus I humbly take my leaue, committing you to him who neuer leaueth his, &amp;c.</p>
+            <closer>
+               <signed>Your worships to be com<g ref="char:EOLhyphen"/>manded in the Lord. <hi>William Ward.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="sermon">
+            <pb n="1" facs="tcp:20114:5"/>
+            <head>Gods Arrow.</head>
+            <head>The first Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DEVT. Chap.</hi> 28.</bibl>
+                  <p>
+                     <bibl>
+                        <hi>Verse</hi> 58.</bibl> If thou wilt not keepe and doe all the wordes of this Law, that are written in this Booke; and feare this glorious and fearefull name; <hi>The Lord thy God,</hi>
+                  </p>
+                  <p>
+                     <bibl>
+                        <hi>Verse</hi> 59.</bibl> Then the Lord will make thy plagues woonderfull; and the plagues of thy seede, euen great plagues, and of long continuance, and sore diseases, and of long du<g ref="char:EOLhyphen"/>rance.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this booke of <hi>Deutero<g ref="char:EOLhyphen"/>nomy</hi> is set forth the won<g ref="char:EOLhyphen"/>derfull loue of GOD to<g ref="char:EOLhyphen"/>wardes his church, with whome the Lorde from time to time dealt most mercifully, euen for his owne names sake, notwithstanding their manifold
+<pb facs="tcp:20114:6"/> rebellious, and vnthankfulnes towards him: and therefore hee did not onely bring them into the land of <hi>Canaan,</hi> de<g ref="char:EOLhyphen"/>stroyed their enemies, gaue them their countrey, cities, and goods to possesse, but also ordeined lawes for them, both concerning his diuine worship and ser<g ref="char:EOLhyphen"/>uice, and also for the mutuall dueties one towards another, threatning with<g ref="char:EOLhyphen"/>all most horrible plagues and curses a<g ref="char:EOLhyphen"/>gainst them that breake his commaun<g ref="char:EOLhyphen"/>dements and Lawes, and promising blessings and goodnesse to them that ob<g ref="char:EOLhyphen"/>serue and obey them.</p>
+            <p>In these 2. <hi>Verses</hi> is set downe a com<g ref="char:EOLhyphen"/>mination, or threatning of the Iudge<g ref="char:EOLhyphen"/>ments and curses of God.</p>
+            <p>Where obserue,</p>
+            <p>First, against whom these Iudge<g ref="char:EOLhyphen"/>ments <milestone type="tcpmilestone" unit="unspecified" n="1"/> are threatned. <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. The <hi>Disobedient,</hi> namely them <note place="margin">Disobedtent.</note> that doe not keepe and doe all the words of this Law.</item>
+               <item>2 Such as want the feare of Gods Name.</item>
+            </list>
+            <p>Secondly, what maner of seruice <milestone type="tcpmilestone" unit="unspecified" n="2"/> the Lord requireth for auoydance of his iudgements. <hi>viz.</hi>
+            </p>
+            <list>
+               <pb n="2" facs="tcp:20114:6"/>
+               <item>1 Not onely to heare, but also to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>epe and doe.</item>
+               <item>2 Not to obserue and doe some <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rt, but all the words of the Law.</item>
+            </list>
+            <p>Thirdly, the cause of these Iudge<g ref="char:EOLhyphen"/>ments <milestone type="tcpmilestone" unit="unspecified" n="3"/> threatned, and that is,</p>
+            <p>The not keeping of Gods comman<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ments, which is sinne.</p>
+            <p>Fourthly, the iudgments threatned. <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+            </p>
+            <list>
+               <item>1 Plagues.</item>
+               <item>2 Diseases.</item>
+            </list>
+            <p>Which are aggrauated by their ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cts.</p>
+            <list>
+               <item>1 Wonderfull.</item>
+               <item>2 Great.</item>
+               <item>3 Soare.</item>
+               <item>4 Of long continuance, euen to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ir posterity.</item>
+            </list>
+            <p>Fiftly, the authour of these plagues, <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lord.</p>
+            <p>First, against whom are these Iudg<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nts <milestone type="tcpmilestone" unit="unspecified" n="1"/> threatned? Against the diso<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ient, and such as will not keepe and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all the words of this Law. It is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> manner of the Lords dealing with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> people to allure them to serue him, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> offering his mercies and blessings <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>porall and eternall to them that
+<pb facs="tcp:20114:7"/> obey his commaundements: And al<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to threaten iudgements, woes, curse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and plagues against them that are di<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bedient: so <hi>Deut.</hi> 11. 26, 27. <hi>Behold, I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> before you this day a blessing and a curse.</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>The blessing, if ye obey the commandeme<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 30. 15, 16, 17, 18.</note>
+               <hi>of the Lord your God, which I command y<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> this day.</hi> 28 <hi>And the curse, if ye will<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> obey the commaundements of the Lord yo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God, but turne out of the way which I co<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>maund you this day, &amp;c. Reuel.</hi> 22. <hi>Bles<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are they that doe his commaundements, t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> their right may be in the tree of Life,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may enter in through the gates into the (i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 15 <hi>For without shall be dogges and ench<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ters, and whooremongers, and murther<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Idolaters, and whosoeuer loueth or n<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>keth lies.</hi> At the day of iudgement, shalbe saide to the obedient which ha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> serued God in this life, and made c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>science to kéepe and doe all the wordes this Lawe, <hi>Mat.</hi> 25. 34. <hi>Come ye ble<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of my Father, inherite the kingdome pre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>red for you, from the foundations of the wo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp;c.</hi> But to the disobedient, Christ Iudge shall say, <hi>Depart from me ye c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sed into euerlasting fire, which is prepa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for the Diuell, and his Angelles,</hi> verse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:20114:7"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s the Lord then offereth mercies and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>essings temporall and eternall to them <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at are obedient to his Lawes, so hée <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>reatneth and powreth downe venge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ce vpon the disobedient. <hi>Reward</hi> and <hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>euenge</hi> (saieth one) are as Gods twoo <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>te, which he setts on mans heart, to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ake him better: they are as twoo poy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s of a clocke, to make it strike; and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oe to that man, who neyther the pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ises, nor threatnings, mercies, nor <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dgements of God can amend, nor <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ake better. In the beginning of this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>apter the Lorde promiseth great and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mirable blessings to the obedient, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the other side, hée threatneth woes, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rses, and plagues, to the disobedient. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e promiseth the obedient, that kéepe <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d doe all the wordes of his lawe, that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ey shall be <hi>blessed in the cittie, and blessed <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o in the field, blessed shall be the fruite of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eir bodies, the fruite of their ground, of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eir cattell, &amp;c: Blessed when they goe in, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d blessed when they come out, Deu.</hi> 28. 3, 4 <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 6, 7. Temporall blessings in this life, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d eternall in the life to come; yea, no <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ortall mans tongue can expresse how <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eat the blessings of God are to the o<g ref="char:EOLhyphen"/>obedient:
+<pb facs="tcp:20114:8"/> And contrarywise hee pr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nounceth curses, plagues, and iudg<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments to them that doe not keepe a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> doe all the words of his Lawe, all th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> curses of God shall ouertake them, con<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> vpon them, and cleaue to them. <hi>Curse they shalbe in the towne, and in the field</hi>
+               <note place="margin">
+                  <hi>Dou.</hi> 28. 15, 16. 17. 18. 21.</note>
+               <hi>cursed shall be their basket, and their stor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> cursed shall be the fruit of their bodies, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the fruit of their land, &amp;c. Cursed wh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they come in, &amp; cursed when they go out, &amp;</hi> And <hi>Verse</hi> 21. <hi>The Lord will make t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pestilence cleaue to them, vntill he haue co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sumed them, &amp;c.</hi> Seeing then that G<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> promiseth such and so great blessings them that keepe and do his command<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments, and threatneth such heauy curs<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the disobedient; Let euery one ta<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> speciall care to frame his life accordi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the Lawes and commaundements God. Woe to thee whosoeuer tho<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> art, which makest but a mocke of t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> commandements of God: <hi>It were bett<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for thee, if thou hadest neuer beene borne,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Christ sayd of Iudas. Mat.</hi> 26. <hi>or better th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <note place="margin">
+                  <hi>Mot.</hi> 16. 24.</note>
+               <hi>God had made thee a venemous toad, then be accursed of God,</hi> cursed in this life wi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> temporall plagues, with strang sickn<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="4" facs="tcp:20114:8"/> ses and fearefull diseases, thy children which should be blessings and comforts vnto thee▪ shall be curses vnto thee, <hi>The curse of God shall be as a garment to couer</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 109. 18. 19.</note>
+               <hi>thee, and as a girdle to put about thee,</hi> when thou girdest thy clothes to thée, thou gir<g ref="char:EOLhyphen"/>dest Gods curse to thee, the curse of God shall enter as water into thy bowels, and as oyle into thy bones, thou shalt eate and drinke Gods curse with euery morsell of bread that thou eatest, and with euery suppe of drinke that thou drinkest; a secret curse of God shall cleaue to thee in euery thing, and af<g ref="char:EOLhyphen"/>ter this life ended, the curse of God shall remayne with thee, and it shall bee confirmed vnto thee from Christ his owne mouth, at the resurrection, with a <hi>Goe yee cursed into euelasting fire.</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 50. 22.</note>
+               <hi>&amp;c. Oh consider this then you that forget God, least the Lorde teare you in pieces, and there bee none to deliuer you. Psalme</hi> 50. 22.</p>
+            <p>Now as the iudgements and curses of God are threatned, and shall fall vp<g ref="char:EOLhyphen"/>pon the disobedient, namely, such as wil not keepe and do all the words of Gods Lawe: So also vppon them shall the
+<pb facs="tcp:20114:9"/> same plagues fall, which doe not feare the glorious and fearefull name of the Lord God, as I told you in the second place, and now in order commeth to be handled.</p>
+            <p>The name of God is diuersly taken <note place="margin">
+                  <hi>Exod.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. 5, 6. <hi>Rom.</hi> 1. 19. <hi>Psal</hi> 20. 1. 1. <hi>Sam.</hi> 17. 45, 49.</note> in the Scriptures, sometimes for the at<g ref="char:EOLhyphen"/>tributes of God, as his mercy, goodnes, power, &amp;c. Sometime for the Lord him selfe, as <hi>Gen.</hi> 12. 8. <hi>Abraham</hi> builded an Altar, and called vppon the name of the Lord. Sometime for the name of God <hi>Iehouah,</hi> and so I take it in this place. <note place="margin">
+                  <hi>Seuit.</hi> 24. 11.</note> This glorious and fearefull name of God is many waies prophaned, and vn<g ref="char:EOLhyphen"/>reuerently abused amongst the wicked, whereby they draw downe the plagues and iudgements of God vppon them<g ref="char:EOLhyphen"/>selues, but most vsually,</p>
+            <list>
+               <item>1 In their idle and ordinary talke.</item>
+               <item>2 In vaine swearing.</item>
+               <item>3 In false swearing to deceiue.</item>
+            </list>
+            <p>For the first, we ought not so much as thinke of, much lesse speake of that glorious name of God, but with feare and trembling. <hi>Leuit.</hi> 19. <hi>Thou shalt not defile the name of thy God, I am the Lorde, Sap.</hi> 1. 1. <hi>Thincke reuerently of the Lorde,</hi>
+               <pb n="5" facs="tcp:20114:9"/>
+               <hi>and seeke him in simplicitie of heart.</hi> And in this chapter <hi>Deut.</hi> 28. 58. vnto all the curses, iudgements and plagues which the Lorde threateneth, as the curse at home, the curse abroad, the curse of sick<g ref="char:EOLhyphen"/>nesse, of madnesse, of famine, oppressi<g ref="char:EOLhyphen"/>on, captiuitie, &amp;c. In the end, hée addeth this as the chiefest: <hi>These and many moe plagues the Lord will lay vpon thee, if thou doe not feare the glorious and fearefull name of the Lord, Psal.</hi> 8. <hi>O Lord our God howe excellent is thy name in all the world!</hi> The <note place="margin">Aben Ezra.</note> Egyptians had a custome to sweare by the head of their king, which othe who<g ref="char:EOLhyphen"/>soeuer did not performe, might not bée redéemed from death by any ransome, bi<g ref="char:EOLhyphen"/>cause he despised the king: how much more then ought not wée to name, or so much as once thinke of the name of our glorious God, but with feare and reue<g ref="char:EOLhyphen"/>rence? <hi>Exodus</hi> 20. <hi>Thou shalt not take the name of the Lord thy God in vaine.</hi> As wée must take héede of the errour of the Ana<g ref="char:EOLhyphen"/>baptists, so we must not take Gods ho<g ref="char:EOLhyphen"/>ly name in vaine, but vse it reuerently, with feare and trembling. But it is an ordinary thing with most men, to haue the Name of God continually in theyr
+<pb facs="tcp:20114:10"/> mouths, when as (for the most part) they neuer thinke of him while they speake of him. How vsuall is it to say one to another, God spéede you, God be with you, God helpe you, God send you health, &amp;c. when they haue no such thing in thought? Take heed then how at any time thou speakest of God, except thy tongue▪ and heart goe together with feare and reuerence, For as <hi>Ecclus.</hi> 23. <hi>A seruant which is often punished cannot be without some scarre, so hee that sweare: <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and nameth God continually shall not bee faultlesse.</hi> And let all good children say with <hi>Dauid. Psalme</hi> 72. 18. <hi>Blessed bee the Lord God, euen the God of Israel, which onely doeth wonderfull things, and blessed be his glorious Name for euer.</hi>
+            </p>
+            <p>Againe, some doe not onely so abuse Gods glorious Name in their idle and ordinary talke, but also by vaine swea<g ref="char:EOLhyphen"/>ring doe binde, almost euery word with an oath, whereby also they bring Gods heauie iudgements, woes, and curses vpon their owne heads, yea, some can<g ref="char:EOLhyphen"/>not speake vnlesse they swrare: It is their Rethoricke, the vulgar poyson of the world, and it is in the mouth of eue<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:20114:10"/> child, for as soone as they can speake, they are able to hurle out any oath, as if they had béene old practicioners. It is an horrible thing to see how this sinne is vsed in all companies, the old man sweareth of custome, the young man in a brauery, the childe by immitation, the Gentleman thinks his spéech not grati<g ref="char:EOLhyphen"/>ous if hee grace it not with gracelesse oathes; the poore man sweareth for ne<g ref="char:EOLhyphen"/>cessity, the thiefe to couer his fault, and the strumpet sweareth to deny her sin. A vaine swearer is worse then a thiefe, an harlot, or a slaunderer: the thiefe of<g ref="char:EOLhyphen"/>ten stealeth for necessitie, the swearer stealeth Gods glory in a brauery, the harlot sinneth in the darke, the swearer openly: the slaunderer hurts his neigh<g ref="char:EOLhyphen"/>bour, the swearer offends his heauenly Father. The souldier once pearced Christ with a speare. <hi>Iohn</hi> 19. but swea<g ref="char:EOLhyphen"/>rers with their poysoned tongs breake vp all the wounds of Christ, and tread vnder their féet the blood of the couenant they are worse then the Deuill, who trembleth at the name of Christ, but they without feare or reuerence doe most horribly blaspheme it. A man is
+<pb facs="tcp:20114:11"/> knowne of what hart he is by his swea<g ref="char:EOLhyphen"/>ring; for as the Apostle saint <hi>Peter</hi> was knowne to be of <hi>Galile,</hi> by his spéech, <hi>Mar.</hi> 14. 70. so a man (because of the a<g ref="char:EOLhyphen"/>boundance of the heart the mouth speak<g ref="char:EOLhyphen"/>eth) may know the children of God, the children of the world, and the children of the Diuell by their spéech. Of the first <hi>Dauid</hi> speaketh <hi>Psal.</hi> 84. <hi>Blessed are they that dwell in thine house, they will euer praise thee.</hi> Of the second sort <hi>Iohn</hi> saith 3. 31. <hi>He that is of the earth is of the earth, and speaketh of the earth.</hi> And of the third the Prophet <hi>Esay</hi> saith, <hi>Esay</hi> 1. 21, 22. <hi>They fret themselues, and curse their Kings, and their gods.</hi> As hée is an English man that naturally speaketh English, a Spa<g ref="char:EOLhyphen"/>niard that naturally speaketh Spanish, and a French man that naturally speak<g ref="char:EOLhyphen"/>eth French: so they that in their vsuall spéech doe praise God, are of God: they that speake most of earthly things, are worldly and carnall men: but they that vse much swearing and cursing, are di<g ref="char:EOLhyphen"/>uellish, because their spéech is alike. In the auntient Records of the Romans it <note place="margin">Iohannes Beetes in preceptorio.</note> is remembred, that a certaine adultresse hauing thrée sonnes, tolde her husband,
+<pb facs="tcp:20114:11"/> when she lay on her death bed, that one<g ref="char:EOLhyphen"/>ly one of them was his, but which of them it was, she would not at any hand make knowne. At last, when the time came also that this man should departe the world, he bequeathed to his vnkno<g ref="char:EOLhyphen"/>wen sonne all his lands and goodes, in<g ref="char:EOLhyphen"/>treating his executors that they would vse all the best meanes they could, to know which of them thrée was his natu<g ref="char:EOLhyphen"/>rall sonne: the matter was brought be<g ref="char:EOLhyphen"/>fore the Iudge, who calling to minde the wise fact of king <hi>Salomon</hi> concerning the two women that contended for the liuing childe 1. <hi>Reg.</hi> 3. thought it good to make experience where Nature rested: and therefore gaue sentence, that the dead body of the father should be boun<g ref="char:EOLhyphen"/>den vpright to a stake, and that to euery of the thrée children should be deliuered a bowe and an arrowe, and each one of them should shoot his arrow at the dead body, with promise, that he which could shoot néerest the fathers heart, and pierce deepest into his flesh, should haue land, goodes, and all. The two bastardes (in whome was no sparke of naturall loue) shot earnestly at him, but the third with
+<pb facs="tcp:20114:12"/> reuerence refused to shoot, abhorring to doe so vnnaturall an action, and sharpe<g ref="char:EOLhyphen"/>ly reprooued his brethren, for commit<g ref="char:EOLhyphen"/>ting so filthy a fact, affirming that hee had rather loose all, then doe as they had done: whereuppon iudgement was gi<g ref="char:EOLhyphen"/>uen that he was the dead mans onely and naturall sonne, and the other two but bastards, and so enioyed his fathers inheritance. Such bastards are they and no true children of God, which in their dayly talke shoote out arrowes of blasphemy at euery part of Christ his sacred body, they cannot beare any na<g ref="char:EOLhyphen"/>turall loue to Christ that so wound him with oathes, and shoot at his heart, nay, they are Gods enemies. <hi>Psal.</hi> 139. 20. <hi>Thine enemies (O Lord) take thy Name in vaine.</hi> As the Salamander which way soeuer he goeth powreth out his poyson, which maketh the herbes to wither; so there are some, who which way soeuer they goe, doe powre out the poyson of their soules. The seruants of <hi>Antichrist</hi> haue a marke in their right hand, &amp; the <note place="margin">
+                  <hi>Reuel.</hi> 13. 16.</note> seruants of the deuill in their tongue: As the godly doe glorifie God, so these dishonour God: What hypocrisie is it
+<pb facs="tcp:20114:12"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pray euery day that Gods Name <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay be hallowed, and yet daily to blas<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>heme it, a sonne in profession and a re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ell in practise: But let our seasoned <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>péech, and reuerent vsing of Gods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame witnesse with vs, and for vs, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e are the children of God, and let our <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ea, be yea, and our nay, nay, lest we fall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nto temptation, and snares of Satan, and so in the end bring an heauy iudge<g ref="char:EOLhyphen"/>ment vpon our selues.</p>
+            <p>Thirdly, the glorious and fearefull name of the Lord God is vnreuerently abused among the wicked by their false swearing to deceiue, <hi>Heb.</hi> 6. 16. <hi>God hath appointed an oath as an end of all controuer<g ref="char:EOLhyphen"/>sie, and a seale of the truth.</hi> But false swea<g ref="char:EOLhyphen"/>rers take the seale of God, &amp; counterfeit it. He that counterfeits the seale of a prince is worthy of death: then what of him that taketh the seale of Gods name to confirme a lye withall? It was a mi<g ref="char:EOLhyphen"/>serable thing that the Iewes required not Iesus, but <hi>Barrabas,</hi> a thiefe and a murtherer: So periured persons re<g ref="char:EOLhyphen"/>nounce Iesus Christ, &amp; the hope of sal<g ref="char:EOLhyphen"/>uation, the kingdome of God, and all they regard not so much the safgard of
+<pb facs="tcp:20114:13"/> their owne soules, as the fauour of some mortall man, and as <hi>Iudas</hi> solde Christ for thirty pence, so they renounce Christ Iesus and the kingdome of heauen for a summe of mony, or worldly commodity.</p>
+            <p>This swearing falsely, to deceiue, is too common a sinne: As the Cretians were saide to be all liars, <hi>Tit.</hi> 1. 12. so for the most part, among vs, all are swear<g ref="char:EOLhyphen"/>ers, to gaine by it. This is too vsuall a sinne in shoppes, faires, and markets, and I would God no where else. That which is so gotten, hath a fearefull curse vpon it. Maisters will teach their ser<g ref="char:EOLhyphen"/>uants to sweare for gain, and such bring in most profite. 2. <hi>Sam.</hi> 23. When <hi>Da<g ref="char:EOLhyphen"/>uid</hi> lusted for water of the well of <hi>Bethle<g ref="char:EOLhyphen"/>hem,</hi> the thrée Woorthies brake into the host of the Philistims, in danger of their liues, and drew water out of the well of <hi>Bethlehem,</hi> and brought it to <hi>Dauid,</hi> who would not drinke thereof, but powred it out for an offering to the Lord, saying, <hi>O Lord, be it farre from me that I should doe this, Is not this the bloud of the men that went in ieoperdie of their liues?</hi> Therefore he would not drincke of it. If <hi>Dauid</hi> would not drinke of the water that was
+<pb facs="tcp:20114:13"/> fetched with danger of those mens liues, wilt thou eate and drinke of that which is gotten with danger of the soule of thy child, seruant, or their owne soule? Let men take héede, swearing falsly to de<g ref="char:EOLhyphen"/>ceiue is but mad sport, whereby mens soules are endangered, but it is so com<g ref="char:EOLhyphen"/>mon that it sheweth how few take care for their soules. It would make a mans heart quake to here how the wic<g ref="char:EOLhyphen"/>ked, when they séeke to deceiue them with whom they deale, will sweare and take God to witnesse. 1. <hi>Samu.</hi> 28. <hi>Saul</hi> going to the witch to deceiue, put on o<g ref="char:EOLhyphen"/>ther apparel: So men purposing to de<g ref="char:EOLhyphen"/>ceiue, take on them the name of God as a cloke: Woe to thée then whosoeuer thou art, that so takest Gods glorious Name into thy mouth to confirme a lye withall, therby to deceiue thy neighbor, God will make thy plagues wonder<g ref="char:EOLhyphen"/>full, great, and fearefull.</p>
+            <p>Further, I obserue that as the name of God is many wayes vnreuerently abused, so the Lorde will send downe Iudgements, woes, and plagues vpon them in this life, and eternall curses in the life to come, which do not with great
+<pb facs="tcp:20114:14"/> feare and reuerence vse the glorious and fearefull Name of the Lord. <hi>Exod.</hi> 20. 7. <hi>The Lord will not holde him guiltlesse, that taketh his name in vaine.</hi> If all the iudges and courts on earth acquit him, God will condemne him. It is a fearefull and venerable name. <hi>Ecclus.</hi> 23. 11. <hi>He that vseth much swearing shall be filled with iniquity, and the plague shall neuer depart from his house.</hi> If gun-powder be stra<g ref="char:EOLhyphen"/>wed in an house, there is danger of burning, but when there is a swearer in an house, there is the curse of God more dangerous and ready to take fire then any gun-powder, which will consume the house, and bring it to vtter ruine. <note place="margin">
+                  <hi>Zach.</hi> 5. 1, 2. <hi>Hag.</hi> 2. 11.</note>
+               <hi>Ierem.</hi> 23. 10. <hi>Because of oathes the lande mourneth,</hi> swearing euer brings a iudg<g ref="char:EOLhyphen"/>ment with it: The Law and comman<g ref="char:EOLhyphen"/>dement of God by <hi>Moses</hi> was, <hi>Leu.</hi> 24. That the swearer should be stoned to death. 2. <hi>Reg.</hi> 19. 35. One Angel in one night destroyed in the host of <hi>Senache<g ref="char:EOLhyphen"/>rib,</hi> one hundred fourescore &amp; fiue thou<g ref="char:EOLhyphen"/>sand men for this sinne of blasphemie. And not onely the iudgements and cur<g ref="char:EOLhyphen"/>ses of God belong to this sinne in this life, but also eternall torments in the
+<pb n="10" facs="tcp:20114:14"/> life to come except they repent with <hi>Za<g ref="char:EOLhyphen"/>charie</hi> the Prophet foreshewed, <hi>Zach.</hi> 5. 1, 2, 3. who in a vision from heauen saw a flying booke, the length whereof was twenty cubites, and the breadth of it ten cubites, wherein was written curses a<g ref="char:EOLhyphen"/>gainst swearers, and that the curses should enter into their houses and con<g ref="char:EOLhyphen"/>sume them with the tymber and stones thereof. You see how great and feare<g ref="char:EOLhyphen"/>ful a flame a blasphemous tongue kind<g ref="char:EOLhyphen"/>leth, <hi>Iam.</hi> 3. 5. If then God send downe such wonderful plagues on them which do not with great feare &amp; reuerence vse his dreadful name, then (beloued) it can<g ref="char:EOLhyphen"/>not be denied but that this present iudg<g ref="char:EOLhyphen"/>ment of God by plague and pestilence is iustly fallen vpon our English nation: For (alas) how often, and how rashly is that fearefull &amp; glorious Name of God blasphemed among vs? Some thinke there is no grace in their words, if they be not imbossed with damnable oaths, &amp; notwithstanding, who trembleth at it? Nay, who almost reprooueth it? The <hi>Iewes</hi> rent their garments, <hi>Mat.</hi> 26. 65. when they heard Gods Name blasphe<g ref="char:EOLhyphen"/>med, but who among vs sheweth any
+<pb facs="tcp:20114:15"/> token that he is discontented with it? If <hi>Pilate</hi> an Heathen man, who knewe <note place="margin">
+                  <hi>Iohn</hi> 19. 7.</note> not Gods word, was stricken with feare at the hearing of the name of the Sonne of God: No doubt <hi>Pilate</hi> shall rise vp in iudgement against many among vs, who without all feare and reuerence rende the Name of God in pieces by cursed swearing and blasphemie, and tosse that dreadfull Name of God in their mouthes, as a football is tossed too and fro on the plaine ground. Some maruell to sée Lordshippes, houses, and landes translated to strangers from the ancient owners: maruell not at it, there are many houses wherein that fearefull and terrible Name of God is seldome remembred, vnlesse it be to Gods disho<g ref="char:EOLhyphen"/>nour, and therefore Gods vengeance doeth watch for their destruction, and a secret curse remaineth in their houses; God will make their plagues wonder<g ref="char:EOLhyphen"/>full, and the plagues of their seed, till he haue vtterly destroyed them from off the face of the earth: Others wonder to sée this man or that suddenly stricken dumbe, and depriued of spéech, euen in time of their health: If thou wonder at
+<pb n="11" facs="tcp:20114:15"/> it, glorifie God in thine admiration, for it standeth with Gods iustice that wherein a man sinneth, therein he shall be punished: and therfore as to the rich glutton, <hi>Luke</hi> 16. who sometime had his choice of drinke and daintie fare, but abused it, a time came (by Gods iust iudgement) when he would haue béene glad of a droppe of water to coole his tongue: So it is a iust thing with God that they which abuse their speech by swearing and cursing (which is a gift that no creature but man hath) should in their life time be depriued of speech, and left dumbe as brute beasts, that others might sée &amp; feare, and by their example take heed how they do vnreuerently vse Gods sacred Name. Some againe thinke it strange that God doth at one time threaten vs with sword, at another time punished vs with dearth &amp; famine, and eftsoones with fearefull plague and pestelence, as at this present; but let them thinke it more strange that God doth not rayne fire and brimstone from heauen vpon vs, as he did vpon <hi>Sodom</hi> and <hi>Gomorrah, Gen.</hi> 19. or that the earth doeth not swallow vs vp quicke, as it
+<pb facs="tcp:20114:16"/> did <hi>Corah</hi> and his company, <hi>Numb.</hi> 16. 32, 33. for our beastly and blasphemous swearing, and vnreuerent trampling of Gods feareful Name vnder our féete. Take héede then whosoeuer thou art, how by thy filthy swearing, thou blo<g ref="char:EOLhyphen"/>west at the coale of Gods curse, and kindlest the wrath of God as a fire to consume thée, and thy posterity; And as thou tenderest the glory of God, the sal<g ref="char:EOLhyphen"/>uation of thy soule, or wouldest haue these present iudgments of God remoo<g ref="char:EOLhyphen"/>ued, or taken away from vs, repent thée of this and other thy sinnes, that God may command his punishing Angel to stay his hand.</p>
+            <p>Hitherto you haue heard how God threatneth iudgments, first, against the dissobedient, and secondly, against such as doe not feare that glorious and fear<g ref="char:EOLhyphen"/>full Name, <hi>The Lord God.</hi> Now in the second generall place you shall heare what maner of seruice the Lord requi<g ref="char:EOLhyphen"/>reth for the auoydance of his iudge<g ref="char:EOLhyphen"/>ments, and that is, That we doe not on<g ref="char:EOLhyphen"/>ly héere, but also kéepe and doe all the the words of this Law.</p>
+            <p>They that would haue the splendent
+<pb n="12" facs="tcp:20114:16"/> beames of Gods mercies to shine vpon them, and the woes, curses, and iudge<g ref="char:EOLhyphen"/>ments of God remooued from them, must not onely make an outward shew of hearing the Law of God, but are bound to kéepe and do all the words of this Law. For manifest proofe of which doctrine, though the Spirit of God sets downe sufficient of this in the 28. of <hi>Deuteronomy,</hi> and <hi>Leutt.</hi> 26. yet I <note place="margin">
+                  <hi>Deut.</hi> 26. <hi>Deut.</hi> 28.</note> will adde thereunto that in <hi>Esay</hi> 1. 19. <hi>If you consent and obey,</hi> (Hee sayeth not simply, if you heare) <hi>you shall eate of the good of the land: But if you refuse and be re<g ref="char:EOLhyphen"/>bellious, you shall bee deuoured with the sword, for the mouth of the Lord hath spo<g ref="char:EOLhyphen"/>ken it.</hi> The wicked world in the daies of <hi>Noah,</hi> no doubt heard him speaking vnto them the truth from God, but be<g ref="char:EOLhyphen"/>cause they did not also kéepe and doe the wordes of Gods Lawe, the iudgement of God fell vpon them by a generall flood. The people of <hi>Sodoma</hi> often heard <hi>Lot,</hi> but their hearing was to their further cōdemnation, because they did not obserue and doe that they heard. The Iewes, the people of God had Prophets, and good men sent vnto
+<pb facs="tcp:20114:17"/> them, to call them to repentance, yea, Christ Iesus and his Apostles, but what they heard, serued but as a wit<g ref="char:EOLhyphen"/>nesse against them, because they yéelded not obedience to that they heard, the Iudgements of God fell vpon them in most fearefull maner, and God made their plagues wonderfull, &amp; the plagues of their séede. The wicked and repro<g ref="char:EOLhyphen"/>bate ones may heare the worde, and talke of the worde, but the kéeping and doing of it is onely proper to the elect children of God. When the <hi>Nineuites</hi> repented, It is not sayde, <hi>Iona.</hi> 3. that God saw or respected their wordes, or outward shew, but their workes. The Iewes had good wordes ynow in their mouthes, though they wanted good workes. <hi>Ierem.</hi> 7. 4. <hi>Templum Domini, templum Domini,</hi> the temple of the Lord, the Temple of the Lord, wee haue the temple of the Lord, and we haue <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> to our father, <hi>Matth.</hi> 3. 9. when as <note place="margin">
+                  <hi>Matth.</hi> 3. 9.</note> they did nothing sutable, but contrary to their wordes, much like many hypo<g ref="char:EOLhyphen"/>crites now a dayes, who (for the most part) seale vp all their sayings, and daube vp all their doings with an <hi>In</hi>
+               <pb n="13" facs="tcp:20114:17"/>
+               <hi>trueth,</hi> whereas often there is no truth, neither in their wordes nor déedes. If words and outward shew would haue serued the turne, then the <hi>Pharises</hi> had <note place="margin">
+                  <hi>Mat.</hi> 6. 5, 16.</note> béene the onely men, for they prayed in the stréetes, disguised their faces when they fasted, and yet Christ brands them for hypocrites, <hi>Mat.</hi> 23. and he speakes <note place="margin">
+                  <hi>Mat.</hi> 23. 13, 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15, 23, 25.</note> to all in generall. <hi>Matt.</hi> 7. 21. <hi>Not euery one that sayeth vnto me, Lord, Lord, shall en<g ref="char:EOLhyphen"/>ter into the kingdome of heauen, but he that doeth the will of my Father which is in hea<g ref="char:EOLhyphen"/>uen.</hi> Many good workes shalbe found in hell, but good workes done in faith, goe all to heauen. They shall leaue their hearing and talking behind them, but their practising and walking, and good workes do follow them. <hi>Reuel.</hi> 14. 13. and therefore the Apostle exhorts vs <note place="margin">1. <hi>Pet.</hi> 1.</note> to make our election sure by good works. We haue had the Ghospel preached a<g ref="char:EOLhyphen"/>mongst vs now full fourty and eight yéeres, in more plentifull sort then euer heretofore, but (alas) what effect wor<g ref="char:EOLhyphen"/>keth it among the greatest number? Sin neuer more abounded, the Gospel hath many hearers, but few followers: many talke of it, but few walke after it. Take
+<pb facs="tcp:20114:18"/> héede then of hypocrisie in Gods wor<g ref="char:EOLhyphen"/>shippe and seruice, thou mayest blinde mens eyes with outward shewes of holinesse, but God seeth thine heart. We say, It is ill halting before a crée<g ref="char:EOLhyphen"/>ple, but it is worse dessembling before God. In many places citizens and townsemen desire to haue much prea<g ref="char:EOLhyphen"/>ching, but too few make conscience of practising: Neuer any age wherein there was more séeming and lesse be<g ref="char:EOLhyphen"/>ing; but take heede, God looketh fur<g ref="char:EOLhyphen"/>ther into thée then all the world besids, not onely into thy words and workes, but also euen into thy heart, whence thy words and workes doe flowe: And at the iudgement God will not giue sen<g ref="char:EOLhyphen"/>tence according to thy outward shewe in hypocrisy, but according to the works which thou hast done. God will not examine thée how many sermons thou hast heard, but how much thou hast pra<g ref="char:EOLhyphen"/>ctised of that thou hast heard, and thy conscience shall answere either for thée, or against thée. Moreouer, you shall see some hypocrites and dessemblers in Gods worship and seruice, sometimes more zealous in outward profession
+<pb n="14" facs="tcp:20114:18"/> then the children of God, talking so godly, and making it so godly as if they were some petty saints dropt downe from heauen, when as indeed, they make no conscience to kéepe and doe all the wordes of Gods Law. Some of them in outward profession almost as hotte on the spurre as <hi>Baals</hi> Priests, 1. <hi>Reg.</hi> 18. 28. who in their blind zeale cut themselues with kniues and launcers, or as the <hi>Donatistes,</hi> who about 420. yéeres after Christ, for zeale killed themselues as men not worthy to liue, and so laboured to striue for God, they stroue against God: Such wee haue some who in a blinde zeale runne vp and downe to heare the worde, as if there were a famine of the word in the lande, because (forsooth) they would séeme to bée more religious then o<g ref="char:EOLhyphen"/>thers, but looke into their liues, and <note place="margin">2. <hi>Pet.</hi> 2. 17. <hi>Iude</hi> 12.</note> you shall find many hallow trées with<g ref="char:EOLhyphen"/>out fruite, cloudes without water, and caried about with a tempest, to whome the blacke darkenesse is reser<g ref="char:EOLhyphen"/>ued for euer. As <hi>Dauid,</hi> a man other<g ref="char:EOLhyphen"/>wayes zealous for Gods glorie, by his grosse sinnes of adulterie and murther
+<pb facs="tcp:20114:19"/> made the enemies of God to blaspheme, 2. <hi>Sam.</hi> 12. 13. So the Name of God, and the word of saluation is euill spoken of among the wicked by their meanes which are zealous in profession, but practise nothing, saue that which is naught, and by their bad example, and loosenesse of life many poore soules are endangered of their saluation, for simple men are sooner drawen to God by the good workes that they sée, then by the good words that they heare. Looke in<g ref="char:EOLhyphen"/>to the outward face of the Church, e<g ref="char:EOLhyphen"/>specially of the Popish séeming Church, and you shall sée <hi>Ananias</hi> renting his clothes, <hi>Mar.</hi> 14. 63. and taking on with himselfe at the hearing of such wordes as séeme to sound like blas<g ref="char:EOLhyphen"/>phemy or heresy, with an outward zeale of Gods glory, and yet buying a bishop<g ref="char:EOLhyphen"/>pricke for money, and who will not be bold to doe as such a one doeth? You shall sée <hi>Herod, Mar.</hi> 6. 20. hearing <hi>Iohn Baptist</hi> preach, and yet make no consci<g ref="char:EOLhyphen"/>ence of adultery nor murther, you shall sée the Pharises, vnder a culour of holi<g ref="char:EOLhyphen"/>nesse, <hi>Mat.</hi> 23. 14. tything mint, and comine, and curious in trifles, and
+<pb n="15" facs="tcp:20114:19"/> leaue waightier matters of the Lawe: you shall see some zealous hearers, but méere hypocrites, vsurers, adulterers, slaunderers, backbiters, busie bodies, crafty dealers, dessemblers with God and man, as full of malice, as a toad is full of poyson. It is our duety to talke <note place="margin">
+                  <hi>Deut.</hi> 6. 7.</note> of all the words of Gods Law at home and abroad, when we lie downe &amp; when we rise vp, &amp; to heare the word reuerent<g ref="char:EOLhyphen"/>ly, because fayth cōmeth by hearing, and we must be begotten by the immortall <note place="margin">
+                  <hi>Rom.</hi> 10. 17.</note> séede of the word of God: Notwithstan<g ref="char:EOLhyphen"/>ding, they that séeme zealous, and are but bare talkers and hearers of the word, without practising and doing all the words of Gods law, are so far from pleasing God, or pacifying his anger when it is once kindled, that they are meanes to increase his vengeance, and to bring downe more fearefull plagues, because God will not be dallyed with<g ref="char:EOLhyphen"/>all <note place="margin">
+                  <hi>Acts</hi> 5. 3, 9.</note> in his worshippe and seruice; and therefore to them, who at the day of Iudgement shal say to Christ, that they <note place="margin">
+                  <hi>Mat.</hi> 7. 22, 23.</note> haue prophesied by his Name, and by his Name cast out Deuils, and done many great workes, he shall answere,
+<pb facs="tcp:20114:20"/> I neuer knew you, depart from me ye that worke iniquity: Let then the fruit<g ref="char:EOLhyphen"/>lesse naked zeale of hypocrites in Gods worshippe and seruice serue as spurres in our sides to pricke vs forward, and make vs earnest to kéepe and doe all the words of Gods Law, that so God may be glorified in vs, and his feareful iudg<g ref="char:EOLhyphen"/>ments remooued from vs. And let this serue as a looking glasse for all carnall gospellers, and dissembling hypocrites, which deceiue the world with shewes, and themselues with shadowes. <hi>Mat.</hi> 4. Satan combating with Christ, thought <note place="margin">
+                  <hi>Mat.</hi> 4. 3, 6.</note> all sure enough when he had got Scrip<g ref="char:EOLhyphen"/>tures by the end: so many thinke they are halfe way at heauen, if they can get a Bible vnder their arme, and make an outward shew of zeale to here the word, though they shift ouer the practising of it to others, and themselues sléepe all the Sermon while: but for all their out<g ref="char:EOLhyphen"/>ward zeale and hearing much, the curse of God shall cleaue vnto them, yea, and the greater shalbe their condemnation, if they doe not also kéepe and doe all the wordes of Gods Law. 1. <hi>Samu.</hi> 28. 14. <hi>Saul</hi> thought that Satan was <hi>Samuel,</hi>
+               <pb n="16" facs="tcp:20114:20"/> when he came in likenesse of <hi>Samuel;</hi> so some thinke that all are Saints, that seeme in the congregation as Saints: But (alas beloued) there is many a Sa<g ref="char:EOLhyphen"/>tan in life that seemeth a saint in shew, but maketh no conscience to kéepe and doe all the wordes of Gods Law. If then we would haue the punishing An<g ref="char:EOLhyphen"/>gel to hold his hand, and the plagues to cease, wee must not haue <hi>Iacobs</hi> small voyce, and <hi>Esau</hi> his rough handes; wee must not be like water-men, who rowe one way, and looke another, talke this way and liue the contrary, curious in other mens liues, and carelesse in our owne: Wée must not bee like foolish proude Merchants, who make a little showe outward, but haue emptie stoorehouses within: Nor like the Pharisees, who seemed excellent men till Christ vncased them: neither must wee thinke that true Religion consi<g ref="char:EOLhyphen"/>steth in a talkatiue shew of a mortified profession vnles wee thinke to goe to heauen only in speculation, but we must kéepe and doe the Law of God, we must be of another temper then hypocrites are: we must not double with God, nor
+<pb facs="tcp:20114:21"/> dissemble in his seruice. <hi>Apo.</hi> 14. 5. there should be no guile in our mouths; heart, and tongue, and hand should goe toge<g ref="char:EOLhyphen"/>ther, <hi>Psalm.</hi> 45. <hi>The Kings daughter is all glorious within. Esay</hi> exhorting the peo<g ref="char:EOLhyphen"/>ple to true repentance for the auoyding of Gods iudgements sayth not, Learne to speake well, to heare much, or to hide a wolfe in a shéepes skinne, or learne to cloke a bad life vnder a good profession: but hee sayeth, <hi>Esay</hi> 1. 17. <hi>Learne to doe well, apply your selues to equity.</hi> It was our Sauiours rule, <hi>Iohn</hi> 10. 25. <hi>The workes that I doe, shall testifie of mee.</hi> And this should be a rule for euery member of Christ, <hi>By their workes you shal know them.</hi>
+            </p>
+            <p>Againe, as it is our duety (for the auoyding of Gods iudgements) not on<g ref="char:EOLhyphen"/>ly to here, but also to obserue and do the words of Gods Law: So further the Lord requireth the performing and kée<g ref="char:EOLhyphen"/>ping not of this, or that part, but of <hi>All the words of this Law. Iam.</hi> 2. 10. <hi>Whosoe<g ref="char:EOLhyphen"/>uer shall keepe the whole Law, and yet fai<g ref="char:EOLhyphen"/>leth in one point, he is guiltie of all.</hi> Let vs then <hi>Clense our selues,</hi> 2. <hi>Cor.</hi> 7. 1. <hi>from all filthinesse of the flesh and spirit, and growe vp vnto full holinesse in the feare of God.</hi>
+               <pb n="17" facs="tcp:20114:21"/> For wee must bee clensed within and without. 1. <hi>Pet.</hi> 1. 15. <hi>As he which hath called you is holly, so be ye holly in all maner of conuersation.</hi> God giueth no man libertie to sinne in the least degrée, the reasons hereof are. First, because all sin <milestone type="tcpmilestone" unit="unspecified" n="1"/> fighteth against the soule. 1. <hi>Pet.</hi> 2. 11. <hi>I beseech you as pilgrims and strangers abstain from fleshly lusts, which fight against the soule.</hi> Euery sinne fighteth against the soule, and therefore we must abstaine from all sinne, and not sinne in the least de<g ref="char:EOLhyphen"/>grée. Secondly, because sinne maketh <milestone type="tcpmilestone" unit="unspecified" n="2"/> a separation betwéene God and vs. <hi>Esay</hi> 59. 2. <hi>Your iniquities haue separated be<g ref="char:EOLhyphen"/>tweene you and your God, and your sinnes haue hid his face from you, that he will not heare. Iere.</hi> 5. 25. <hi>Your iniquities haue tur<g ref="char:EOLhyphen"/>ned away these things, and your sinnes haue hindred good things from you.</hi> Thirdly, because euery sinne doth purchase Gods <milestone type="tcpmilestone" unit="unspecified" n="3"/> wrath. <hi>Psal.</hi> 5. 4, 5. <hi>For thou art not a God that loueth wickednesse, neither shall euill dwell with thee. The foolish shall not stand in thy sight, for thou hatest all them that worke iniquity Rom.</hi> 1. 18. <hi>The wrath of God is reueiled from heauen against al vn<g ref="char:EOLhyphen"/>righteousnes and vngodlinesse of men, which</hi>
+               <pb facs="tcp:20114:22"/>
+               <hi>withhold the truth in righteousnes.</hi> Our sins do bring down Gods wrath and iudge<g ref="char:EOLhyphen"/>ments by famine, sword, plague, &amp; pesti<g ref="char:EOLhyphen"/>lence and therefore if we would be deli<g ref="char:EOLhyphen"/>uered from these iudgments which late<g ref="char:EOLhyphen"/>ly in fearefull manner lye vpon vs, we must make conscience to kéepe and doe <hi>All the words of Gods Law.</hi> This doctrine also serueth to reproue them that are carelesse in sin, and make no bones to commit sinne euen with gréedinesse, we should pul such as it were out of the fire. <hi>Iud.</hi> 23. For sin is as dangerous to the soule as fire is to the body. Moreouer, we should auoyd all occasions of sin, and vse all good meanes to kéepe vs vndefi<g ref="char:EOLhyphen"/>led therwith, to frequent good company, and auoyd badde, for if we be carefull to shunne such places and persons as are infected with the plague, and to vse all preseruatiues against it, then much more against sinne, which is the plague and poyson of the soule. Lastly, this serueth to condemne the sinfull shifting which some vse to make from one sinne to another: I haue béene an adulterer (will some man say) but I thanke God, I haue left that sinne, and now I am
+<pb n="18" facs="tcp:20114:22"/> but a little couetous, &amp;c. But as one poyson is enough to destroy the bodie, so one sinne is sufficient to condemne the soule. We must not doe as <hi>Saul</hi> did, who being sent to destroy all the <hi>Amalekites.</hi> 1. <hi>Sam.</hi> 15. 3, 9. spared their King <hi>Agag,</hi> and the better shéepe and oxen, and the fat beasts, and the lambes, and all that was good, that they would not destroy, but all that was vile and nought worth, that they destroyed: So we must not thinke it sufficient to cast away one sinne, or a few sinnes, but we must destroy our fatte sinnes, our profi<g ref="char:EOLhyphen"/>table sinnes, our pleasant sinnes, and all. If we would haue our land clensed from infection of plague and pestilence, we must labour to clense our selues, first, from all filthinesse of flesh and Spirit, we must kéepe and doe not this or that <note place="margin">1. <hi>Cor.</hi> 7. 1.</note> part, but all the words of Gods Lawe. God giueth no man libertie to commit the least sin: and therefore as we would haue all parts glorified, so we must also first haue all parts sanctified, &amp;c.</p>
+            <trailer>Finis prioris concionis. <hi>Laus Deo.</hi>
+            </trailer>
+            <pb facs="tcp:20114:23"/>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="19" facs="tcp:20114:23"/>
+            <head>The second Sermon.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>OU haue heard in the former sermon. First a<g ref="char:EOLhyphen"/>gainst whome the Lord here threatneth plagues, and Iudgements, <hi>viz.</hi> the disobedient, and them that feare not his glorious Name. And secondly, what maner of seruice he re<g ref="char:EOLhyphen"/>quireth, for auoyding of his Iudge<g ref="char:EOLhyphen"/>ments, namely, not onely the hearing, but also the keeping and doing of his Law, and that not of this or that part of it, but of all the words of his Law.</p>
+            <p>Now commeth the third general part to bee handled, which doth shewe the cause of the iudgements of God threat<g ref="char:EOLhyphen"/>ned, and now fallen vpon vs, &amp; that is, sin, or the not kéeping and doing of al the wordes of Gods Law. But first let me answere one obiection which may hence arise. Some man may say, Why doeth
+<pb facs="tcp:20114:24"/> God threaten temporall plagues and punishments in this life, and eternall torments in the life to come against those that doe not obserue and doe all the words of his Law, whereas (Christ onely excepted) no man can, nor euer did performe and doe the whole law so perfectly and absolutly as God requi<g ref="char:EOLhyphen"/>reth at our hands? To this I answere: The Lord requireth nothing but what we are bounden to doe, and that wee might haue done had not <hi>Adam</hi> sinned: And therefore considering the corrupti<g ref="char:EOLhyphen"/>on of our nature, we ought to acknow<g ref="char:EOLhyphen"/>ledge our frailtie, and to call vpon God by faithful prayer, that he would vouch<g ref="char:EOLhyphen"/>safe by his holy Spirit to direct vs how to frame our liues according to his Law, and accept of vs in Christ and for his sake, who hath fulfilled the Law for vs. And although the best Saints of God be farre short of that perfection which the Lord requireth, yet let it bee our comfort that the Lord accepteth of our willingnesse, and desire to doe that he commandeth: So he accepted of <hi>A<g ref="char:EOLhyphen"/>braham, Gen.</hi> 22. 10. And so also will hee <note place="margin">
+                  <hi>Gen.</hi> 22. 10, 11 12.</note> accept of all <hi>Abrahams</hi> children: For
+<pb n="20" facs="tcp:20114:24"/> though <hi>Abraham</hi> did not sacrifice his son yet his willingnesse to haue done it at Gods commandement, was accepted as if he had done it: So if thou haue a wil<g ref="char:EOLhyphen"/>ling minde, and vnfained desire to kéepe and doe all the wordes of Gods Lawe, though thou come much too short of it, yet the Lord will accept of thy willing mind &amp; vnfained desire to do it, as if thou haddest done it. <hi>Nehem.</hi> 1. 11. But will <note place="margin">
+                  <hi>Nehem.</hi> 1. 11.</note> a willing minde &amp; vnfained desire serue the turne? Yes, If thou labour to walke in the feare of God, and desirest more faith, when thou hast not so much as thou wouldest haue: If, I say, thou desi<g ref="char:EOLhyphen"/>rest in thine heart, not to offend God, féelest wants in thy selfe, thirstest to doe better, &amp; féelest an inward griefe y<seg rend="sup">e</seg> thou canst do no better, thy willing mind be<g ref="char:EOLhyphen"/>ing aboue thine hability, doubtlesse God doth accept of thée as if thou hadest kept and done al y<seg rend="sup">e</seg> words of his Law. 2. <hi>Cor.</hi>
+               <note place="margin">2. <hi>Cor.</hi> 8. 2, 12.</note> 8. <hi>If first there be a willing mind, it is accep<g ref="char:EOLhyphen"/>ted according to that a man hath, and not ac<g ref="char:EOLhyphen"/>cording to that he hath not.</hi> If a father wil<g ref="char:EOLhyphen"/>ling to prooue the obedience of his child, should bid him goe, &amp; fetch such a great ston, which he knew wel enough he were
+<pb facs="tcp:20114:25"/> not able to mooue, much lesse to carie, the child should goe and strugle with it, and finding that he could not by any meanes doe it, should returne to his fa<g ref="char:EOLhyphen"/>ther, and tell him, Father, I haue done what I am able, and vsed all my strength, but it will not be: What fa<g ref="char:EOLhyphen"/>ther is it, that will not accept of his chiids willing minde and endeuour, as if he had done it? So our heauenly Fa<g ref="char:EOLhyphen"/>ther accepteth of our willing and obedi<g ref="char:EOLhyphen"/>ent mindes, though we be not able to kéepe and doe all the words of his Law.</p>
+            <p>But to our purpose, What is the cause of Gods iudgements? Sinne, for it doeth kindle the wrath of God as a fire, and brings down his iudgements. <hi>Lam.</hi> 3. 39. <hi>Man suffereth for his sin. Psal.</hi>
+               <note place="margin">
+                  <hi>Lam.</hi> 3. 39. <hi>Psal.</hi> 107. 34.</note> 107. 34. <hi>A fruitfull land maketh he bar<g ref="char:EOLhyphen"/>ren, Why? for the wickednesse of them that dwell therein.</hi> Yea, sinne is so filthy a thing before God, that it is said to defile the earth. <hi>Gene.</hi> 6. 12. <hi>God looked vpon the earth, and behold, It was corrupt, for all</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 6. 12. 1. <hi>Reg.</hi> 8. 35.</note>
+               <hi>flesh had corrupt his way vpon the earth.</hi> 2. <hi>Pet.</hi> 2. God created the Angels in singu<g ref="char:EOLhyphen"/>lar <note place="margin">2. <hi>Pet.</hi> 1. 4.</note> perfection, yet when they committed sinne against God, all his loue was tur<g ref="char:EOLhyphen"/>ned
+<pb n="21" facs="tcp:20114:25"/> vengeance, he cast them downe in<g ref="char:EOLhyphen"/>to hell, and deliuered them into chaines of darknesse to be kept vnto damnation. <hi>Gen.</hi> 1▪ 26. God created <hi>Adam</hi> and <hi>He<g ref="char:EOLhyphen"/>uah,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 1. 26, 27</note> placed them in paradise, subiected all creatures vnto them, ioyned them in mariage, blessed them, and performed all tokenes of loue vnto them; <hi>Adam</hi> commited but one sinne, and that by his wiues procurement, no sooner had he done it, but frendship was broken be<g ref="char:EOLhyphen"/>twéene God and him, God cursed him, and cast him out of Paradise. <hi>Num.</hi> 20. <note place="margin">
+                  <hi>Num.</hi> 20. 12, 24.</note>
+               <hi>Moses</hi> and <hi>Aaron</hi> men highly in Gods fauour, yet when as at the wildernesse of sinne they doubted of the miracle pro<g ref="char:EOLhyphen"/>mised by God, though they repented, yet God answered them, <hi>Because you haue dishonoured me before the people, and not beleeued me, to sanctifie me in the pre<g ref="char:EOLhyphen"/>sence of the children of Israel, therefore you shall not bring this people into the land which I haue giuen them.</hi> 2. <hi>Sam.</hi> 11. <hi>Dauid</hi> a <note place="margin">2. <hi>Sam.</hi> 11. 4.</note> man after Gods owne heart committed adultery, but what came of it? though he bewayled and repented his sinne all the dayes of his life after, with many a sigh and bitter teare: yet notwithstan<g ref="char:EOLhyphen"/>ding,
+<pb facs="tcp:20114:26"/> as he had brought shame vpon an other mans wife, so he saw shame vpon his own children while he liued: <hi>Ammon,</hi> one of his sonnes, cōmitted incest with his owne sister <hi>Thamar.</hi> 2. <hi>Sam.</hi> 13. 28. <hi>Absolon</hi> and other of <hi>Dauids</hi> sonnes kil<g ref="char:EOLhyphen"/>led <note place="margin">2. <hi>Sam.</hi> 13. 1, 14. 2. <hi>Sam.</hi> 13. 28, 29, 32.</note> his brother, <hi>Ammon</hi> for that filthie facte. The same <hi>Absolon,</hi> not long after droue his father <hi>Dauid</hi> out of his king<g ref="char:EOLhyphen"/>dome, and most impudently laie with his fathers wiues, whereupon <note place="margin">2. <hi>Sam.</hi> 15. 7, 8. 2. <hi>Sam.</hi> 16. 21.</note> followed horrible slaughter among the people, and sharpe battell, wherein <hi>Ab<g ref="char:EOLhyphen"/>solon,</hi> and many thousands moe were slaine.</p>
+            <p>If God so punished his déerest chil<g ref="char:EOLhyphen"/>dren in this life for sinne, what haue we deserued which doe multiplie our transgressions, and heape one sinne vp<g ref="char:EOLhyphen"/>pon another, how can it bee but God must néedes make our plagues won<g ref="char:EOLhyphen"/>derfull? Nay; sinne doth not onely bring Gods iudgements in generall, but also more particularlie, it is the cause of plague, pestilence, sickenesses and bodilie diseases. <hi>Ierem.</hi> 21. 6. For <note place="margin">
+                  <hi>Iere.</hi> 21. 6.</note> sinne (saith the Lord) <hi>I will smite the in<g ref="char:EOLhyphen"/>habitants of Ierusalem, and man and beast</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 9. 10.</note>
+               <pb n="22" facs="tcp:20114:26"/>
+               <hi>shall die of a great pestilence. Exodus</hi> 9. God brought vpon <hi>Egypt</hi> botch, blayne, boile, and grieuous diseases vpon the people for their crueltie towards the <note place="margin">
+                  <hi>Leuit.</hi> 26. 25.</note>
+               <hi>Israelites,</hi> and contempt of the Pro<g ref="char:EOLhyphen"/>phets. <hi>Leuiticus</hi> 26. 25. The Lorde threatneth the sworde, sickenesse, and <note place="margin">2. <hi>Reg.</hi> 5. 27.</note> pestilence vpon the people for their sins. 2. <hi>Reg.</hi> 5. 27. <hi>Gehesie</hi> was plagued with the leprosie of <hi>Naaman</hi> the Syrian, <note place="margin">
+                  <hi>Psal.</hi> 38. 3.</note> for his couetousnesse and bribery. <hi>Psal.</hi> 38. 3. <hi>Dauid</hi> confesseth that Gods hand was heauie vpon him for his sinne, and that hee had no rest in his bones by reason of his iniquities. <hi>Iohn</hi> 5. 14. Christ hauing healed him that <note place="margin">
+                  <hi>Ioh.</hi> 5. 14.</note> was diseased thirtie and eight yeeres willed him to sinne no more, least a worse thing happened vnto him: Signifying, that the cause of his sickenesse was his sinne. Let vs not impute this present heauie Iudge<g ref="char:EOLhyphen"/>ment of God vpon vs to any secon<g ref="char:EOLhyphen"/>darie causes, but let vs acknowledge our sinnes to bee the cause of it. Let vs say with <hi>Iosephs</hi> brethren, <hi>Genesis</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 42. 21, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</note> 42. 21. <hi>Wee haue sinned, and therefore this trouble is come vppon vs.</hi> And let
+<pb facs="tcp:20114:27"/> euery one looke into himselfe, and say, as <hi>Micha.</hi> 7. 9. <hi>It is my sinne that hath procu<g ref="char:EOLhyphen"/>red</hi>
+               <note place="margin">
+                  <hi>Micah</hi> 7. 9.</note>
+               <hi>this.</hi> Some say, It is <hi>Londons</hi> sinnes that hath brought this iudgement vpon them and vs: I say, not they onely, but we as well as they haue sinned, and deserued this and worse then this, and except we repent we shall all likewise perish. There is no sect nor sort of peo<g ref="char:EOLhyphen"/>ple <note place="margin">
+                  <hi>Luc.</hi> 13. 2.</note> can excuse themselues: Looke a<g ref="char:EOLhyphen"/>mongst men of worth and wealth, and you shal find many of them contemners of the word, giuen to oppression, prodi<g ref="char:EOLhyphen"/>galitie. 2. <hi>Tit.</hi> 3. 4. Louers of pleasures <note place="margin">
+                  <hi>Tit.</hi> 3. 4.</note> more then louers of God. Looke into the Cleargie, and you shal sée some care<g ref="char:EOLhyphen"/>lesse, some idle, some ignorant. Many Lawiers, more respecting gaiue then Iustice, mayntaining the falsest cause for money, and promising the poore cly<g ref="char:EOLhyphen"/>ents that all shall be well for them, till they haue emptied their purses of coyne and themselues of honestie. Artificers, tradsemen, buyers, and sellers, what is more common among them then fraud, and deceipt, swearing, lying, and for<g ref="char:EOLhyphen"/>swearing, &amp; setting conscience behind the doore, In a word, sinne so aboundeth a<g ref="char:EOLhyphen"/>mong
+<pb n="23" facs="tcp:20114:27"/> all sorts of people that <hi>Ionas</hi> was <note place="margin">
+                  <hi>Ionah.</hi> 1. 8, 12.</note> neuer better knowen to be the cause of the tempest, then sinne is knowen to be the occasion of this present iudgement of God vpon vs. If then we would haue Gods wrath pacified, and his plagues turned away from vs, we must first turne from our sinnes, and make conscience to keepe and do all the words of Gods law, els God will not haue done with vs yet, <hi>Lam.</hi> 3. 40. we must euery one of vs, search and try our owne waies and condemne our selues guiltie of sinne, and be truely conuerted vnto <note place="margin">1. <hi>Cor.</hi> 11.</note> God, which if we doe, then, <hi>Psal.</hi> 91. 7. <note place="margin">
+                  <hi>Psal.</hi> 91. 7.</note> A thousand shall fall beside vs, and ten thousand on our right hand, but it shall not come nie vs. And thus much con<g ref="char:EOLhyphen"/>cerning the generall cause of this heauie Iudgements of God.</p>
+            <p>The Scriptures doe also mention certaine particular sinnes, for which God threatneth &amp; inflicteth the plague and pestilence vpon the people. And first, I find that the want of worship<g ref="char:EOLhyphen"/>ping and seruing of God is one speciall sinne that bringeth his fearefull iudge<g ref="char:EOLhyphen"/>ment. <hi>Exod.</hi> 5. 3. <hi>Moses</hi> and <hi>Aaron</hi> came <note place="margin">
+                  <hi>Exod.</hi> 5. 3.</note>
+               <pb facs="tcp:20114:28"/> to <hi>Pharao,</hi> and required that the people might goe three daies iourney into the wildernesse, and sacrifice to God, least he brought the pestilence or sword. If want of worshiping and seruing of God be one cause of the pestilence, then such prophane wretches amongst vs as had rather doe any thing then come to Church to serue God, are as cartropes to drawe downe the plague vpon this our English nation. And, as the <hi>Iewes</hi>
+               <note place="margin">
+                  <hi>Esay</hi> 5. 18. <hi>Mat.</hi> 27. 25.</note> cried. <hi>Mat.</hi> 27. 25. <hi>His blood be on vs, and vpon our children:</hi> So the sinne of such prophane wretches crieth for ven<g ref="char:EOLhyphen"/>geance vpon themselues, and vpon the whole land. Let vs looke into our selues, and sée what cold and carelesse comming to Church there is no Sabbath daies: some lie in their beds, some about their ordinarie businesses, others follow va<g ref="char:EOLhyphen"/>nities, whooring, &amp; drunkennesse, vpon the Lords day, no threatning will pre<g ref="char:EOLhyphen"/>uaile with some, sometimes not halfe the people in a parish present at holy ex<g ref="char:EOLhyphen"/>ercises vpon the Sabbath day, so hard a thing it is to drawe them to the meanes of their saluatiō. Séeing then that want of worshipping and seruing of God
+<pb n="24" facs="tcp:20114:28"/> bringeth the plague, howsoeuer hither<g ref="char:EOLhyphen"/>to wee haue béene negligent, let vs now be diligent in seruing of God, that so the punishing Angel may cease. <hi>Exod.</hi> 23 25. <hi>Thou shalt serue the Lord thy God,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 23. 25.</note>
+               <hi>and he shall blesse thy bread, and thy water, and I will take all sicknesses away from the mids of thee.</hi> To serue God should bee our chiefest delight, that so we may bee made pertakers of Gods blessings, and haue his iudgements remooued from vs. Hee that serueth God, shall not <note place="margin">
+                  <hi>Mat.</hi> 6. 33.</note> loose his reward. It is neuer with God as it is sometimes with men, <hi>A young Seruing-man, an olde begger;</hi> But it may be our comfort, that if we serue God, hee will neuer forsake vs, nor leaue vs comfortlesse, Nay, though the Deuill turne all his power loose at vs, they shall not be able to hurt vs. <hi>Psalme</hi> 91. <hi>He will deliuer vs from the snare of the hunter, and from the</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 91. 3, 6, 7.</note>
+               <hi>noysome pestilence:</hi> Wee néede not to feare the pestilence that walketh in the darknes▪ nor the plague that destroyeth at the noone day, &amp;c. Let euery hous<g ref="char:EOLhyphen"/>houlder then studie to bee like <hi>Cor<g ref="char:EOLhyphen"/>nelius,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 10. 2.</note>
+               <hi>Actes</hi> 10. 2. who serued God
+<pb facs="tcp:20114:29"/> with all his houshold, And say as did <hi>Ioshua, Iosh.</hi> 24. 15. <hi>I and my house will serue the Lord.</hi> And let all mistresses <note place="margin">
+                  <hi>Iosh</hi> 24. 15.</note> and dames say with <hi>Hester. I and my maides will doe the like.</hi> And as <hi>Ioseph</hi>
+               <note place="margin">
+                  <hi>Hest.</hi> 4. 16.</note> and <hi>Mary</hi> went euery yéere to <hi>Ierusalem</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 2. 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> with all their houshold, to serue God: So let all godly housholders with their whole families euery Sabbath day re<g ref="char:EOLhyphen"/>sort to the Church, to serue God: And as you would haue your owne worke and businesse done vpon the worke dayes, So be as willing, nay, a great deale more willing and forward to fur<g ref="char:EOLhyphen"/>ther, and no way to hinder the Lordes worke on the Sabbath day. But (alas) too many now a dayes are like <hi>Pharao,</hi> who had something else for the Iewes <note place="margin">
+                  <hi>Exod.</hi> 5. 6.</note> to doe when they should haue serued God: So many of our housholders haue one businesse or other for themselues, and seruants when they should goe to Church: Such men are meanes to bring vngeance vpon themselues, and others, whereas on the other side they that serue God haue promises of tempo<g ref="char:EOLhyphen"/>rall blessings in this life, and eternall in the life to come.</p>
+            <pb n="25" facs="tcp:20114:29"/>
+            <p> An other perticuler sin, and so a cause or meanes to bring the plagues is con<g ref="char:EOLhyphen"/>tempt of the Ministers of the word, the Ministers are named in the Scriptures by name reuerent and high titles, and specially they are called Angels, and Ambassadours of God. <hi>Apo.</hi> 1. 20. 2. <hi>Cor.</hi> 5. And therefore it is not a calling <note place="margin">
+                  <hi>Apoc.</hi> 1. 20. 2 <hi>Cor</hi> 5. 20. <hi>Gal</hi> 4. 14.</note> to be contemned, but an excellent thing to be an Angell or Messenger of God. Christ Iesus was so called, <hi>The Angell or</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 3. 1. <hi>Apo.</hi> 10. 1. <hi>Apo.</hi> 14. 17.</note>
+               <hi>Messenger of God to the Church. Mal.</hi> 3. 1. <hi>Apo.</hi> 10. 1. The office of an Ambassa<g ref="char:EOLhyphen"/>dour is an excellent office, euen when they are sent from an earthlie Prince; And therefore howsoeuer the Lordes Ambassadours be lightlie and slightlie estéemed of, nay contemned, and nought set by among the wicked, yet among good men, and such as feare God, and loue God, as <hi>Obadia</hi> did. 1. <hi>Reg.</hi> 18. <note place="margin">1. <hi>Reg.</hi> 18. 3, 4.</note> they are, and euer haue béene highlie accounted of, at least waies for his sake whose message they bring, and vouch<g ref="char:EOLhyphen"/>saffeth to grace them with such high titles. When <hi>Obadia</hi> saw that wicked <hi>Iesabell</hi> hated and persecuted Gods Pro<g ref="char:EOLhyphen"/>phets, he, both with daunger, and to
+<pb facs="tcp:20114:30"/> his great charges, found meanes to pre<g ref="char:EOLhyphen"/>serue them, hid them, and fed them, be<g ref="char:EOLhyphen"/>cause they were the Lordes Ambassa<g ref="char:EOLhyphen"/>dours: But now <hi>Obadia</hi> is dead and gone, and haue left few behind him that haue the like care, but for the most part cary a contrary disposition, and there<g ref="char:EOLhyphen"/>fore no maruel if God make our plagus wonderfull. Few in these sinfull times haue any care to giue or consecrate their sonnes to God, as <hi>Anna</hi> did, 1. <hi>Sam.</hi> 1. <note place="margin">1. <hi>Sam.</hi> 1. 28.</note> 28. and to place them in the seruice of God, because (for the most part) they want both their due mayntenance and reuerence, Nay, many thinke it a dis<g ref="char:EOLhyphen"/>grace if their child or kinseman be a Mi<g ref="char:EOLhyphen"/>nister, but Christ Iesus the Lord of all, <hi>Heb.</hi> 1. 2. accounted it no disgrace to bee <note place="margin">
+                  <hi>Heb.</hi> 1. 2.</note> of this calling, neither the Apostles of Christ, to whom though the Ministers of this age be not comparable in Spiri<g ref="char:EOLhyphen"/>tuall graces, yet in this one thing they are the Lords Ambassadours as well as they, and therefore not so basely to be e<g ref="char:EOLhyphen"/>stéemed of, 1. <hi>Cor.</hi> 4 1. <hi>But as the Myni<g ref="char:EOLhyphen"/>sters of Christ, and disposers of the secrets of</hi>
+               <note place="margin">1. <hi>Cor.</hi> 4. 1.</note>
+               <hi>God:</hi> Because we are not ashamed of the Gospel of Christ, <hi>Rom.</hi> 1. 16. nor of <note place="margin">
+                  <hi>Rom.</hi> 1. 16.</note>
+               <pb n="26" facs="tcp:20114:30"/> his message whose Ambassadour wee are. Though a man be neuer so sim<g ref="char:EOLhyphen"/>ple, yet if hee be admitted to be the Am<g ref="char:EOLhyphen"/>bassadour of an earthlie Prince, euery man will reuerence him, and who dare contemne him? So though a man bee neuer so meane, poore, or beggerly, yet when he is allowed to be the Messen<g ref="char:EOLhyphen"/>ger of Christ Iesus, and able to deli<g ref="char:EOLhyphen"/>uer his Message in any good sort, hee ought not to be contemned, for so Christ is despised in him. If a man for his son or kinseman be preferred to prince<g ref="char:EOLhyphen"/>ly or Lordly state as <hi>Ioseph</hi> was in E<g ref="char:EOLhyphen"/>gypt, <hi>Gen.</hi> 41. or as <hi>Mordecai</hi> was in <hi>A<g ref="char:EOLhyphen"/>hasuerosh</hi> his Court, <hi>Ester</hi> 6. or in fa<g ref="char:EOLhyphen"/>uour <note place="margin">
+                  <hi>Gen.</hi> 41. 40. <hi>Ester</hi> 6. 11. <hi>Dan.</hi> 2. 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> with the King as <hi>Daniel</hi> was, <hi>Dan.</hi> 2. 28.</p>
+            <p>All men with cappe and knee will reuerence such a one, and account him happie, yea, a happie father that hath such a sonne, and happy hee that hath such a kinseman: But they see it not that it is a thousand times more happy to bee the Messenger of God: This is such an excellent cal<g ref="char:EOLhyphen"/>ling and profession, that no man is sufficient for it, And therefore the name
+<pb facs="tcp:20114:31"/> of an Apostle and Byshoppe is at tribu<g ref="char:EOLhyphen"/>ted to Christ. <hi>Heb.</hi> 3. 1. <hi>Heb.</hi> 8. 1, 2. what a blessed thing is it to be ioyned <note place="margin">
+                  <hi>Heb.</hi> 3. 1. <hi>Heb.</hi> 8. 1, 2.</note> with Christ in such an high preferment? If it were an honour to <hi>Iosuah</hi> to bring the people into the land of <hi>Canaan,</hi> what an excellent thing is it to conduct the people of God into the heauenly <hi>Gaanan</hi> and celestiall <hi>Ierusalem.</hi> It goeth hard with the poore Ministers of the Gospell, and Messengers of Christ, when for do<g ref="char:EOLhyphen"/>ing good they shall reape contempt at their handes of whom they should bée much set by. Phisitions that cure the sicknesses and diseases of the bodie are honoured; and highly estéemed of. Soul<g ref="char:EOLhyphen"/>diars that defend the land, should be much made of; but the Ministers that cure the sicknesses of mens soules, féed them with the heauenlie <hi>Manna,</hi> and arme and defend them against Satans assalts, if they be not regarded, they haue the more wrong, and the sharper w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Gods arrowes be against the vnthank<g ref="char:EOLhyphen"/>full people. <hi>Xerxes,</hi> mourned and wept▪ when he cosidered that of so populous a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> armie not one should be left aliue, with<g ref="char:EOLunhyphen"/>in an hundred yeeres: But if Christ b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="27" facs="tcp:20114:31"/> condemned and Barabbas deliuered, if good men be contemned, and bad men estéemed of, few good men will shortly be left in the world, and the iudgements of God for such contempt will cause vs to sorrow, mourne, and wéepe, and bring heauie iudgements vpon vs. The contempt of the Ambassadour, is the contempt of the Prince, and to despise or basely to estéeme of Gods Myni<g ref="char:EOLhyphen"/>sters, is to despise God himselfe. <hi>Luc.</hi> 10. <note place="margin">
+                  <hi>Mat.</hi> 10. 40. <hi>Luk.</hi> 10. 16.</note>
+               <hi>He that despiseth you, despiseth me, and hee that despiseth me, despiseth him that sent me.</hi> When the Messengers of King <hi>Dauid</hi> had their skyrts and beards cut off, 2. <hi>Sam.</hi> 10. hee tooke it as his owne re<g ref="char:EOLhyphen"/>proch: <note place="margin">2. <hi>Sam.</hi> 10. 4, 7</note> And if the Messengers of God be contemptuously or vnreuerently recei<g ref="char:EOLhyphen"/>ued, not man, but God is despised. When the people refused <hi>Samuel,</hi> 1. <hi>Sam.</hi>
+               <note place="margin">1. <hi>Sam.</hi> 8. 7.</note> 8. 7. God said, <hi>They haue not cast thee a<g ref="char:EOLhyphen"/>way, but they haue cast me away.</hi> If a man should haue tolde the Iewes that they despised God, when they contemned his Prophets and Apostles, they would not haue beleeued it, but men in resisting Gods ordinance, resist God, <hi>Ezek.</hi> 3. 7. <hi>This people will not obey thee, for they will</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 3. 7.</note>
+               <pb facs="tcp:20114:32"/>
+               <hi>not obey me.</hi> This is perpetuall, when God prepared messengers, who so con<g ref="char:EOLhyphen"/>temneth them, contemneth and despiseth him that sent them. 1. <hi>Thess.</hi> 4. 8. It is <note place="margin">1. <hi>Thes.</hi> 4. 8.</note> God that speaketh by his Ministers and Messengers. God is the cryer. <hi>Heb.</hi> 4. 7. <note place="margin">
+                  <hi>Heb.</hi> 4. 7.</note>
+               <hi>To day if you will heare (his voice)</hi> not our voyce, for God speaketh by his Mini<g ref="char:EOLhyphen"/>sters. If King <hi>Dauid</hi> was angrie when his messengers were shamefully intre<g ref="char:EOLhyphen"/>ted and despised, then how much more will the King of glorie be prouoked to wrath, and to execute his Iudgements vpon such a people as this is, which set at naught both his message and messen<g ref="char:EOLhyphen"/>gers, and often make more account of a minstrell then a Minister. <hi>Ier.</hi> 29. 18. <hi>I</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 29. 18, 19.</note>
+               <hi>will persecut them with the sword, with the famine, and with the pestilence &amp;c. Because they haue not heard my words, saith the Lord, which I sent vnto them by my seruants the Prophets, rising vp earely and sending them, but yee would not heare, sayeth the Lord. Num.</hi> 14. The people would haue <note place="margin">
+                  <hi>Num.</hi> 14. 10, 12.</note> stoned <hi>Moses</hi> and <hi>Aaron,</hi> but <hi>verse</hi> 12. the Lord threatned to smite them with the pestilence, and destroy them. I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they deserued the plague of God tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="28" facs="tcp:20114:32"/> despised <hi>Moses</hi> and <hi>Aaron</hi> in the Mes<g ref="char:EOLhyphen"/>sage <note place="margin">
+                  <hi>Numb.</hi> 16. 46, 49.</note> of the earthlie <hi>Canaan,</hi> what plagues doe they deserue which con<g ref="char:EOLhyphen"/>temne and set them at naught which call them to the heauenly <hi>Canaan?</hi> The Mynisters of the Word were neuer lesse accounted off in any age, euerie base and badde fellowe doeth and may reuile them to their faces, and speake reproachfully of them behinde their backes, Yea, they would stone them, as they threatned <hi>Caleb</hi> and <hi>Iosuah,</hi> and dealt with <hi>Stephen</hi> if there were <note place="margin">
+                  <hi>Acts</hi> 7. 59.</note> no Lawes to restrayne them. And as the Iewes iested vpon the Pro<g ref="char:EOLhyphen"/>phets of God <hi>Ieremie</hi> and <hi>Ezechiel,</hi>
+               <note place="margin">
+                  <hi>Iere.</hi> 20. 7. <hi>Ezek.</hi> 33. 31.</note>
+               <hi>Ierem.</hi> 20. 7. <hi>Ezeki.</hi> 33. 31. So many a<g ref="char:EOLhyphen"/>mongst vs, not onely in their table-talke, but also vpon their ale-benches take pleasure to play vpon the poore Mynisters of the Gospel: But as <hi>Ham</hi> for his vnreuerent caryage <hi>Genes.</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 9. 22, 25.</note> 9. 22, 25. towards his Father being Gods Mynister, was accursed in himselfe, in his posteritie, in earth, in heauen, of God and man: So the wicked that contemne and scorne the Lords Ministers are accursed them<g ref="char:EOLhyphen"/>selues,
+<pb facs="tcp:20114:33"/> and a meanes also to bring downe Gods vengeance on others. And if the sinfull <hi>Sodomites</hi> were by Gods iust iudgement destroyed with fire and brimstone from heauen, and cast to condemnation, because they vex<g ref="char:EOLhyphen"/>ed <note place="margin">
+                  <hi>Gen.</hi> 19. 24.</note> the righteous soule of <hi>Lot</hi> from day to day, can we deny but that this heauie <note place="margin">
+                  <hi>Iud.</hi> 6. 7. 2. <hi>Pet.</hi> 2. 8.</note> iudgement of God by plague and pesti<g ref="char:EOLhyphen"/>lence is iustly and deseruedly fallen vp<g ref="char:EOLhyphen"/>pon vs for contemning and despising the Lords Ministers?</p>
+            <p>A third perticular sinne that brings the plague, is Idolatry. <hi>Ezek.</hi> 5. 11, 14. <hi>Because you haue defiled my Sanctuary, I</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 5. 11, 14, 17.</note>
+               <hi>will make you wast and abhorred among the nations: I will send vpon thee famine, and e<g ref="char:EOLhyphen"/>uil beasts, and they shall spoile thee, and pesti<g ref="char:EOLhyphen"/>lence and blood shall passe through thee, and I will bring the sword vpon thee, I the Lord haue spoken it.</hi>
+            </p>
+            <p>Though Idolatry be taken out of our Churches, yet secret Idolatry is committed in many places: And besides that, whatsoeuer a man loueth as much or more then God, it is his Idole, and he committeth Idolatry therewith. 2. <note place="margin">2. <hi>Sam.</hi> 24. 2. 10.</note>
+               <hi>Sam.</hi> 24. <hi>Dauid</hi> numbred the people, &amp;c.
+<pb n="29" facs="tcp:20114:33"/> To number the people was nothing, but <hi>Dauid</hi> did it in a brauery and trusted to his power, and respected not God as he should, and therefore God sent a plague to destroy them. If we put our trust in outward things, we commit I<g ref="char:EOLhyphen"/>dolatry, and deserue the plague: But many trust more in earthly things then in the Lorde, as in riches, knowledge, power, and strength of men. If Eng<g ref="char:EOLhyphen"/>land be true within it selfe (some say) wee néede not to feare any nation in Christendome. In déede prouision and preparation against the enemy is neces<g ref="char:EOLhyphen"/>sary, but to séeke to God is most necessa<g ref="char:EOLhyphen"/>ry, and to trust in strength, or other out<g ref="char:EOLhyphen"/>ward meanes, is to commit Idolatry, and a meane to bring the iudgement of God vpon vs by plague and pestilence.</p>
+            <p>Pride also is another sinne that brin<g ref="char:EOLhyphen"/>geth <milestone type="tcpmilestone" unit="unspecified" n="4"/> the pestilence, and maketh our plagues wonderfull. <hi>Soph.</hi> 1. 8. <hi>In the day</hi>
+               <note place="margin">
+                  <hi>Soph.</hi> 1. 8.</note>
+               <hi>of the Lords sacrifice</hi> (that is, in the day of his vengeance) <hi>hee threatneth to visit the Princes and the Kings children, and all such as are clothed with strange apparell.</hi> How strangely is the fashion of our apparell altered within one thrée score or foure
+<pb facs="tcp:20114:34"/> score yeares, That which is in fashion this yeare is out of fashion the next. <note place="margin">
+                  <hi>Psal.</hi> 119. 21.</note>
+               <hi>Psal.</hi> 119. 21. <hi>Thou hast destroyed the proud, and cursed are they that doe erre from thy commandements. Pro.</hi> 16. 18. <note place="margin">
+                  <hi>Prou.</hi> 16. 18.</note>
+               <hi>Pride goeth before destruction, and an high mind before the fall.</hi> 2. <hi>Sam.</hi> 18. 9. <hi>Ab<g ref="char:EOLhyphen"/>solon</hi>
+               <note place="margin">2. <hi>Sam.</hi> 18. 9.</note> in the pride of his heart, seeking to leape into his fathers seate, was hanged in an oke, and slayne, his ruffin-like long heare serued as an halter to hange him withall, his pride had a fall. 2. <hi>Reg.</hi>
+               <note place="margin">2. <hi>Reg.</hi> 9. 30, 35, 37.</note> 9. <hi>Iesabell,</hi> that filthie, proud, wicked Quéene, who in her pride painted her face, to make her seeme beautifull, found that pride had a fall, and her proud car<g ref="char:EOLhyphen"/>kasse had a fall too, when being cast out at a windowe, and trampled vnder foot of horses, the dogs licked vp her blood, &amp; eate her flesh, so as nothing was left of her but the scull of her head, her féet, and palmes of her hands. <hi>Mac.</hi> 9. 4, 7. <hi>An<g ref="char:EOLhyphen"/>tiochus</hi>
+               <note place="margin">2. <hi>Mac.</hi> 9. 4, 7, 9, 10.</note> intending to ouerthrowe <hi>Ierusa<g ref="char:EOLhyphen"/>lem,</hi> to spoile the Sanctuarie, and Tem<g ref="char:EOLhyphen"/>ple of the Lord, and to kill the people of God, was for his pride, ouerthrowen in his Chariot, ryding thitherward, his belly hurst, lothsome wormes cralled
+<pb n="30" facs="tcp:20114:34"/> out, and at last his filthy sauour was such as his owne seruants could not a<g ref="char:EOLhyphen"/>bide it: His pride had a fall. So <hi>Herod Actes</hi> 12. 21. in the pride of his heart, <note place="margin">
+                  <hi>Act.</hi> 12. 21, 22, 23.</note> putting on his royall apparell, and de<g ref="char:EOLhyphen"/>lighting in the applause of the people, was smitten be the Angel of God, be<g ref="char:EOLhyphen"/>cause hee gaue not glory vnto God, so that hee was eaten of wormes, and gaue vp the Ghost, his pride had a fall. In like manner our <hi>English</hi> people, e<g ref="char:EOLhyphen"/>specially in our chiefest city, hauing vanted themselues to the height of pride haue already tasted the scourge of Gods vengeance by plague and pestilence, and haue found it true by their woefull experience, that pride will haue a fall. For (alas beloued) is there not many a proud hearted <hi>Absolon,</hi> and many an high minded <hi>Herod</hi> in <hi>England,</hi> puffed vp to such exceeding height of pride, that God must needes at last put them in minde of mortalitie. And is there not many a cursed <hi>Iesabell,</hi> that delight in nothing so much as in paynting their faces, and hiding Gods handy<g ref="char:EOLhyphen"/>worke, spending time (which is so precious) either in sitting and deuising
+<pb facs="tcp:20114:35"/> how to talke with a maiestie, and iesture to deceiue them that deale with them, or practising with their looking glasses to sée if all be well without, but neuer looke into the glasse of Gods word, to sée if all be well within. If pride then goe before destruction, and bee one speciall meane to bring Gods wrath vpon a people, then must we needs confesse that the hande of Gods vengeance is iustly sealed vpon vs, especially vpon our proud sinfull citie <hi>London.</hi> Let <hi>London</hi> then repent, whom God in the height of her pride hath pulled downe, And let the whole land repent, knowing that destruction followeth pride. God made man of the dust of the earth, not of the <note place="margin">
+                  <hi>Gen.</hi> 2. 7.</note> fire, nor ayre, least hee should be apt to mount or aspire in his owne conceit, but of the earth which hath the lowest place. God clothed <hi>Adam</hi> and <hi>Euah</hi> in beastes skinnes: and in nought but thine owne skinne shalt thou be clothed at the day of Iudgement. Why then art thou proude, O earth and ashes! <hi>Ec<g ref="char:EOLhyphen"/>cles.</hi>
+               <note place="margin">
+                  <hi>Eccles.</hi> 10. 12.</note> 10. 12.</p>
+            <p>Fiftly, Adultery and whoredome is another sinne, for which God punisheth <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <pb n="31" facs="tcp:20114:35"/> with plague and pestilence. <hi>Numb.</hi> 25. <note place="margin">
+                  <hi>Numb.</hi> 25. 1, 9</note> 1, 9. The <hi>Israelites</hi> committed whore<g ref="char:EOLhyphen"/>dome with the daughters of <hi>Moab,</hi> and <note place="margin">1. <hi>Cor.</hi> 9. 8. <hi>Ios.</hi> 5. 6.</note> there died of the plague in one day foure and twentie thousand: yea in the end, there was no moe left of those sixe hun<g ref="char:EOLhyphen"/>dred thousand which came out of <hi>Egypt,</hi> but onely <hi>Iosua</hi> and <hi>Caleb.</hi> If the Lord made such hauocke by pestilence, among his owne people, for this sinne of whor<g ref="char:EOLhyphen"/>dome: what should wée looke for but plagues and feareful iudgements to de<g ref="char:EOLhyphen"/>stroy vs, who for the most part make no conscience of this sinne, but many a<g ref="char:EOLhyphen"/>mongst vs neye after ther neighbours <note place="margin">
+                  <hi>Ier.</hi> 5. 8. <hi>Ezek.</hi> 22. 11.</note> wiues like féed horses, <hi>Beniamin,</hi> among the twelue sonnes of <hi>Iacob,</hi> was déerest to his father, and beloued of God, and his Tribe placed in the best of the land, <hi>Gen.</hi> 42. 38. And yet for whoredome <note place="margin">
+                  <hi>Gen.</hi> 42. 38. <hi>Iude</hi> 19. 20.</note> committed once with one <hi>Leuites</hi> wife, by certane priuate men among them. <hi>Iud.</hi> 29. 20. God punished the whole tribe, he made the other eleauen Tribs to warre against them, and to kill men, women, children, and their cattell, and to burne vp ther houses. If then that Tribe were so destroyed by Gods owne
+<pb facs="tcp:20114:36"/> appointment, and so generally plagued for whoredome comitted with one wo<g ref="char:EOLhyphen"/>man: what plagues hath <hi>England</hi> deser<g ref="char:EOLhyphen"/>ued wherein many are growen impu<g ref="char:EOLhyphen"/>dent in this sinne, and some of them that are in place to see this sinne punished, are most giltie of it themselues. The Lords may say of vs as hee said of the <hi>Iewes, Ier.</hi> 5. 7. How should I spare <hi>Eng<g ref="char:EOLhyphen"/>land? Though I haue fed them to the full, yet they commit adultery, and assemble them<g ref="char:EOLhyphen"/>selues</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 5. 7. 8, 9.</note>
+               <hi>by companies in the harlots houses, ver.</hi> 9. <hi>Shall I not visite for these things (saith the Lord) shall not my soule be auen<g ref="char:EOLhyphen"/>ged of such a Nation as this?</hi> The stewes in Rome are not more filthie then the secrete whoredomes in <hi>England:</hi> It ser<g ref="char:EOLhyphen"/>ueth many in stéed of an afternoones re<g ref="char:EOLhyphen"/>creation, and whereas heretofore this sinne hath beene committed in hugger mugger, now it walketh about in the day light, noe man is ashamed of it, nay many bragge and boast of it.</p>
+            <p>A sixt particuler sinne that bringeth the pestilence is, <hi>Abuse of the Lords Sup<g ref="char:EOLhyphen"/>per,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 1. <hi>Cor.</hi> 11. 30. Because the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi>
+               <note place="margin">
+                  <hi>Cor.</hi> 11. 30.</note> came not prepared to that Sacra<g ref="char:EOLhyphen"/>ment, many were sicke among them,
+<pb n="32" facs="tcp:20114:36"/> and many died; It is very likely God sent some plague which swept them a<g ref="char:EOLhyphen"/>way. Many when they come to the Lords supper are like the Iewes, that fasted. <hi>Esay</hi> 58. They hang downe their <note place="margin">
+                  <hi>Esai.</hi> 58. 5.</note> heads a day or two, and then came to their olde by as againe: They care to bring cleanly apparell to the table, but filthy and poluted soules without faith, repentance, or reconsiliation. If God so dealt with the <hi>Corinthians</hi> for the a<g ref="char:EOLhyphen"/>buse of this Sacrament, wee néede not doubt but our carelesse comming to the supper of the Lord without preparation, without reuerent regarde, or making difference of the Lords body is one cause for which this heauy Iudgement is fal<g ref="char:EOLhyphen"/>len vpon vs. Séeing then that these and such other like sinnes haue long cryed for vengeance from heauen vpon vs, and are iustly fallen on vs, It stands vs now vpon, if euer, to looke about vs, and to make no tarying to turne to the Lord, <hi>Ecclus</hi> 5. 7. that the Lord in mer<g ref="char:EOLhyphen"/>cie, may spéedely turne away his wrath <note place="margin">
+                  <hi>Ecclus.</hi> 5. 7.</note> from vs, and shewe vs the light of his countenance, <hi>Psal.</hi> 67. 1. and be merci<g ref="char:EOLhyphen"/>full <note place="margin">
+                  <hi>Psal.</hi> 67. 1.</note> vnto vs.</p>
+            <pb facs="tcp:20114:37"/>
+            <p> Now the fourth generall part of my text sheweth what these Iudgements are, which sinne doeth thus cause, and God doeth heere threaten, and they are plagues and diseases, wonderfull, great, soare, and of long durance. It is a small thing with God in his wrath for sinne either by weake meanes, or without meanes to bring fearefull and strange Iudgements vpon a people, because he <note place="margin">
+                  <hi>Esay</hi> 1. 24. <hi>Ier.</hi> 11. 17. 20. <hi>Mal.</hi> 1. 6. 2. <hi>Reg</hi> 19 35. <hi>Ioel</hi> 2. 25▪ <hi>Ecclus</hi> 34. 28, 29, 30. <hi>Exod.</hi> 7 19. <hi>Exod.</hi> 8. 5, 17, 24. <hi>Exod</hi> 9. 3, 25. <hi>Exod.</hi> 10. 14, 15. <hi>Acts</hi> 12. 23.</note> is the Lord of hostes, and hath all crea<g ref="char:EOLhyphen"/>tures at his becke to execute his will, He hath Angels at his command, Nay, legions of Angels, and deuils too, hee hath men, the Sunne, Moone, starres, earth, water, ayre, fire, and all creatures for his host or army, to execute his ven<g ref="char:EOLhyphen"/>geance: whereas the simplest, and wea<g ref="char:EOLhyphen"/>kest of them are by his appointment, a<g ref="char:EOLhyphen"/>ble to destroy the greatest potentates in the world, as we see in <hi>Pharao, Herod,</hi> and others. This is to our comfort, If we walke in the wayes of our God, and haue care to kéepe and do all the words of his Law, He can and will defend and deliuer vs from great dangers by his weakest creatures: he will make the verie stones at a league with vs. <hi>Iob</hi> 5. <note place="margin">
+                  <hi>Iob</hi> 5. 23.</note>
+               <pb n="33" facs="tcp:20114:37"/> If the Lord of hostes be with vs, wee néede not feare what man can doe a<g ref="char:EOLhyphen"/>gainst vs: He will frustrate all the plots and deuilish deuises of papists; and tray<g ref="char:EOLhyphen"/>tors, and by weake meanes bring their purposes to nought, He will deliuer vs from the noysome pestilence, and com<g ref="char:EOLhyphen"/>maund his punishing Angel to passe by vs: But if we serue not God, nor frame our selues to the kéeping and doing of his commandements, we lye open to e<g ref="char:EOLhyphen"/>uery danger: though we be lockt vp in a castle of brasse, or conney our selues vnder the hatches with <hi>Ionas,</hi> wee can not so hide our selues frō the presence of God, but the pestilence that walketh in the darkenesse, and the swift arrow of Gods vengeance will ouertake vs, and the weakest of Gods creatures will be able to destroy vs, hee will make our plagues wonderfull, soare, and of long durance. <hi>The Lorde will make thy plagues wonderfull.</hi> Of all the visitations that God layeth vpon man, the plague is most fearefull, and vncomfortable. The <note place="margin">
+                  <hi>Leuit.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 2. <hi>Num.</hi> 12. 15.</note> leprosie was a filthy disease, but not comparable to the plague. It taketh away the precious life of man, it maketh
+<pb facs="tcp:20114:38"/> their garments and their goods odious. It hindreth the Minister from com<g ref="char:EOLhyphen"/>ming to them, to giue them comfort, and it taketh away all worldly comfort too, for what a discomfort is it for men to be imprisoned in their owne houses, as children appoynted vnto death, and to be watched, and kept in at their owne doores? What a griefe is it when the husband is driuen to leaue his wife, or the wife not suffered to come to her hus<g ref="char:EOLhyphen"/>band, children dare not come to their parents, nor parents to their children, but to be shut vp without any worldly comfort. But (were it worse then it is) our sinnes haue deserued it, they are growen to be so wonderful, great, soare, and of long continuance &amp; durance▪ And therefore it is no maruel if God propor<g ref="char:EOLhyphen"/>tion his iudgments to our sinnes: Nay, if we still preseuere in our wickednesse, and doe multiply our transgressions, God will not yet haue done with vs, but he will also multiply his iudgments vpon vs, and make our plagues more wonderfull, <hi>Pro.</hi> 24. <hi>There shall be none</hi>
+               <note place="margin">
+                  <hi>Prou.</hi> 24. 20. <hi>Leuit.</hi> 26. 18, 21, 24, 28.</note>
+               <hi>end of plagues to the euil man, Leuit.</hi> 26. 18. <hi>If you will not obey me, I will punish you yet</hi>
+               <pb n="34" facs="tcp:20114:38"/>
+               <hi>seuen times more, according to your sinnes, and seuen times more according to your sinnes, &amp;c.</hi> If our sinnes continue, Gods Iudgements shall continue, and the Lords hand will be stretched out still agaynst vs. <hi>Esay</hi> 9. 17. As God made <note place="margin">
+                  <hi>Esay</hi> 9. 17.</note>
+               <hi>Pharao</hi> his plagues wonderfull while he was hardened in his sinne, so will hee also deale with vs. Let vs then (belo<g ref="char:EOLhyphen"/>ued) breake off the course of sinne be<g ref="char:EOLhyphen"/>time, that God in mercie may looke vpon vs, and remooue his iudgements from vs, which are, and haue beene so wonderfull, that the best Phisitions in England can neuer shew the reasons of it, nor afford remedies for it, but are compelled to confesse, it is beyond the reach of their skill, and that it is <hi>The fin<g ref="char:EOLhyphen"/>gar of God, Exod.</hi> 8. 19. And of such con<g ref="char:EOLhyphen"/>tinuance <note place="margin">
+                  <hi>Exod.</hi> 8. 19.</note> and durance it hath bene, that many thousands haue beene consumed therewith. The plague in <hi>Dauids</hi> time continued but thrée dayes, 2. <hi>Samu.</hi> 24. <note place="margin">2. <hi>Sam.</hi> 24. 13, 15.</note> but this (I thinke) hath continued now almost thrice three monethes, and yet the hand of God is stretched out still.</p>
+            <p>Further, here I obserue that God doth
+<pb facs="tcp:20114:39"/> not threaten to bring these iudgements vpon strangers, and reprobates, but vp<g ref="char:EOLhyphen"/>on his owne people. I will (saith hee) make <hi>Thy plagues wonderfull.</hi> God hath in all ages bene sharpe with his owne people. Consider how hee dealt with the <hi>Iewes</hi> from time to time, till at last he dispersed them: He suffered them to be in bondage, and slauery in <hi>Egypt:</hi> when he brought them thence, he puni<g ref="char:EOLhyphen"/>shed them in the wildernesse: after<g ref="char:EOLhyphen"/>wards in <hi>Iosuah</hi> his time, how did God giue them ouer to the vncircumcised, and so continued afflicting them, till at last he brake off his couenāt with them? He threatned sword, famine, and pesti<g ref="char:EOLhyphen"/>lence against them, and performed it. Neuer any people tasted more plente<g ref="char:EOLhyphen"/>ously of outward afflictions then the <hi>Iewes. Exod.</hi> 12. 37. Sixe hundred thou<g ref="char:EOLhyphen"/>sand of them, besides children came out <note place="margin">
+                  <hi>Exod.</hi> 12. 37.</note> of <hi>Egypt:</hi> but for their sinnes God made hauocke of them: within the citie of <hi>Ie<g ref="char:EOLhyphen"/>rusalem</hi> in fourteene moneths space the sword, famine, and pestilence consumed eleuen hundred thousand of them, and so lamemtable was their state, that the very enemie entring the citie, pitied
+<pb n="35" facs="tcp:20114:39"/> them, and commaunded that no man should be slaine, but that they should be sold, thirtie for a peny, as they had sold Christ before for thirtie pence: So that being once the people of God, they are now no people, yea, the very name of a <hi>Iew</hi> is become odious, and therefore the Prophet in the person of <hi>Ierusalem</hi> com<g ref="char:EOLhyphen"/>playned, <hi>Lam.</hi> 1. 12. <hi>Was euer any sorrow</hi>
+               <note place="margin">
+                  <hi>Lam.</hi> 1. 12.</note>
+               <hi>like mine?</hi> The reasons why God doeth thus afflict his owne people are many. First, the people of God are tyed to o<g ref="char:EOLhyphen"/>bedience, <milestone type="tcpmilestone" unit="unspecified" n="1"/> and to glorifie Gods Name; but when they sinne, they make his glory and Name to be blasphemed, and their profession to be dishonoured, and therefore God punisheth them more grieuously. 2. <hi>Sam.</hi> 12. 14. So <hi>Dauid</hi> by <note place="margin">2. <hi>Sam.</hi> 12. 14.</note> his sinne made the enemies of God to blaspheme. <hi>Rom.</hi> 2. 24. The <hi>Iewes</hi> are re<g ref="char:EOLhyphen"/>prooued <note place="margin">
+                  <hi>Ro. m</hi> 2. 24.</note> for not kéeping the Lawe, <hi>The Name of God</hi> (saith the Apostle) <hi>is blas<g ref="char:EOLhyphen"/>phemed among the Gentiles through you:</hi> And this also is one speciall cause wher<g ref="char:EOLhyphen"/>fore the Lord thus punisheth vs, we are now Gods people, bounden so obedi<g ref="char:EOLhyphen"/>ence as were the <hi>Iewes,</hi> but (alas) many among vs dishonour their profession,
+<pb facs="tcp:20114:40"/> and by their badde conuersation make the Gospell to bee blasphemed, and ill spoken of, and therefore he executeth his iudgements vpon vs.</p>
+            <p>A second reason wherefore God so <milestone type="tcpmilestone" unit="unspecified" n="2"/> afflicteth his deerest children is, that as he aduaunceth them highest by his mer<g ref="char:EOLhyphen"/>cies, so if they abuse, or contemne them, it is right that he should cast them down to greatest miseries. So <hi>Capernaum</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 11. 23.</note> which was lifted vp to heauen (because it had the preaching of the word, and miracles) was brought downe to hell, by corporall punishment. And the sea<g ref="char:EOLhyphen"/>uen Churches in <hi>Asia,</hi> and those to <note place="margin">
+                  <hi>Reuel.</hi> 1. 4.</note> whom Saint <hi>Paul</hi> writte his Epistles, once had the glorious light of the Gos<g ref="char:EOLhyphen"/>pell, but for their contempt and disobe<g ref="char:EOLhyphen"/>dience their candelsticke was remoued. Neuer nation vnder heauen tasted more plenteously of Gods mercies then we, God hath exalted vs to heauen, by the preaching of his Gospell: but if we continue to abuse his great and many blessinges vpon vs, let vs take héed lest in his Iustice he cast vs downe into an hell of miseries. For if God haue so aflicted his déerest children, and his own
+<pb n="36" facs="tcp:20114:40"/> people, how can wee promise impu<g ref="char:EOLhyphen"/>nitie to our selues, or perswade our selues that because wee are his peo<g ref="char:EOLhyphen"/>ple, wee haue the word preached, and Sacraments (according to Christs Institution) administred, therefore hee will not punish vs? Nay, hée will so much the rather afflict vs. This deceiued the Iewes, <hi>Ierem.</hi> 7. <note place="margin">
+                  <hi>Iere.</hi> 7. 4, 6, 8, 9.</note> 4, 6, 8, 9. And let vs take heede it deceiue not vs. Let vs beware of sinne, which stirreth vp God to take vengeance: for, 1. <hi>Peter</hi> 4. 17. <hi>If iudge<g ref="char:EOLhyphen"/>ment beginne at the house of God, what shall</hi>
+               <note place="margin">1. <hi>Pet.</hi> 4. 17.</note>
+               <hi>the end be of them which obey not the Gos<g ref="char:EOLhyphen"/>pell of God.</hi> Thou seest a childe of God afflicted, thy conscience can witnesse a<g ref="char:EOLhyphen"/>gainst thée that thou hast not liued so godly a life as hee; know then that if God forbeare thee in this life, hee reser<g ref="char:EOLhyphen"/>ueth thee for a further vengeance in the life to come.</p>
+            <p>Secondly, if God haue not spared his déerest seruants, in their sinnes, wée must not spare, nor beare with them that are néere vnto vs, or déere vnto vs, but reprooue them roundly for their sinnes. And that in loue to their soules.
+<pb facs="tcp:20114:41"/> Let not the Minister beare with any for friendshippe or fauoure, but reprooue them, and deale faithfully with all. And let the fearefull example of <hi>Elie</hi> serue as a looking-glasse to all parentes, not to bolster their children in any bad actions, but sharpely to corect them. <hi>Ely,</hi> hear<g ref="char:EOLhyphen"/>ing of the wickednesse of his sonnes, re<g ref="char:EOLhyphen"/>prooued them in déed, but with too much lenitie, as good neuer a white, as neuer the better. 1. <hi>Sam.</hi> 2. 23. <hi>Why doe yee</hi>
+               <note place="margin">1. <hi>Sam.</hi> 2. 23, 24.</note>
+               <hi>such things? for of all this people I heare euill reportes of you: doe no more my sonnes, for it is no good report that I heare, which is, that yee make the Lordes people to trespasse &amp;c.</hi> But because he did not reproue and correct them with more seueritie, 1. <hi>Sam.</hi>
+               <note place="margin">1. <hi>Sam.</hi> 4. 18.</note> 4. 18. the iudgements of God ouertooke, him, for, being old, he fell from his seate backeward, and brake his necke, and died. We haue many <hi>Elies</hi> now a daies, who hearing and knowing of the wic<g ref="char:EOLhyphen"/>kednesse of their children, and seruants, haue learned without booke <hi>Ely</hi> his ma<g ref="char:EOLhyphen"/>ner of reprouing. <hi>Why doe you thus? doe no more so.</hi> But let them take héede lest the like or worse Iudgementes fall on them. As God hateth and punisheth
+<pb n="37" facs="tcp:20114:41"/> sinne in his owne people, and deerest seruants: so doe thou hate sinne, and condemne it, both in thy self and others. He hateth sinne so much, that if thou were as the signet of his fingar, hee would plucke thée off, if thou sin against him. A godly father will not beare with his childe in wickednesse, because hee loueth him: the husband will not smother vp his wiues faultes, but by gentle perswasions, or (if that will not serue) with sharpe reprehensions re<g ref="char:EOLhyphen"/>proue her, because he loueth her: So God oft times aflicteth his children be<g ref="char:EOLhyphen"/>cause he loueth them.</p>
+            <p>Thirdly, whereas God doeth for the most parte, sharpely correct his owne people in this life, we ought not rashely to iudge, nor condemne those that are here most subiect to crosses and aflicti<g ref="char:EOLhyphen"/>ons, If we sée Gods hand extraordina<g ref="char:EOLhyphen"/>rily heauie vpon any man, let vs not therefore giue sentence vpon him that he is a badde man, or a reprobate: So <hi>Iobs</hi> frendes dealt with him, when they sawe his strong aflictions, they inferred that hee was an hypocrite, and God <note place="margin">
+                  <hi>Iob</hi> 8. 13. <hi>Iob</hi> 15. 34. <hi>Iob</hi> 20 4, 5.</note> punished him for his sinnes: but of all
+<pb facs="tcp:20114:42"/>
+               <hi>Iobs</hi> afflictions none troubled him more then this. So Christ was accounted a badde man because hee had many <note place="margin">
+                  <hi>Esay</hi> 53. 3.</note> troubles: Whereas hee was without any spot of sinne, neither was there a<g ref="char:EOLhyphen"/>ny guile found in his mouth. Let vs not then iudge hardly of those that are afflicted, because God will so trie his deerest children; and by many tri<g ref="char:EOLhyphen"/>bulations we must enter into eternall Ioy: We may not looke to goe to hea<g ref="char:EOLhyphen"/>uen on a fether-bedde, but if wee see a notorious badde man afflicted, then we may say, such a man is punished for his sinnes.</p>
+            <p>Lastly, I note that God doeth here threaten to punish disobedience and prophanation of his name euen in a mans posterity. <hi>I will make</hi> (sayth hee) <hi>thy plagues wonderfull, and the plagues of thy seede.</hi> The Iewes for their disobe<g ref="char:EOLhyphen"/>dience and contempt of Gods Lawe, did not onely feele and finde in them<g ref="char:EOLhyphen"/>selues the iudgements of God, but al<g ref="char:EOLhyphen"/>so their posterity smarted for it: It was the cause of the ouerthrowe of Ierusa<g ref="char:EOLhyphen"/>lem, and that so many thousands (as I haue shewed you) perished there<g ref="char:EOLunhyphen"/>with
+<pb n="38" facs="tcp:20114:42"/> sword, famine, plague, and pesti<g ref="char:EOLhyphen"/>lence: It was the cause of the Iewes captiuitie, and that their seede and po<g ref="char:EOLhyphen"/>steritte are made vagabonds vpon the earth. <hi>Genes.</hi> 9. 25. <hi>Cham</hi> did no more but discouer the priuie parts of his fa<g ref="char:EOLhyphen"/>ther, <note place="margin">
+                  <hi>Gen.</hi> 9. 25.</note> but for his so doing, hee was not onely accursed, but also of a free childe became a bound seruant for euer, both in himselfe, and also in his posterity. Howe much more shall they feele the iudgements of God vpon themselues and their seede, which doe not only diso<g ref="char:EOLhyphen"/>bey Gods cōmandements, but also cast away the feare of his glorious Name, which ought not once to bee spoken of, nor so much as thought vpon, but with reuerence? <hi>Iosh.</hi> 9. 15. When <hi>Ioshuah</hi>
+               <note place="margin">
+                  <hi>Ios.</hi> 9. 15. 2. <hi>Sam.</hi> 21. 1.</note> and the Princes of Israel had made a faithfull oath to the Gibeonites, <hi>Saul</hi> afterward violated it, Almighty God in the dayes of <hi>Dauid</hi> punished it with three yeeres famine thoroughout <hi>Isra<g ref="char:EOLhyphen"/>el,</hi> till the seuen sonnes of <hi>Saul</hi> were giuen to the Gibeonites to bee slayne. When <hi>Mataniah</hi> named by <hi>Nabu<g ref="char:EOLhyphen"/>chodonosor Zedichiah</hi> had sworne sub<g ref="char:EOLhyphen"/>iection <note place="margin">2. <hi>Reg.</hi> 24. 17. 2. <hi>reg.</hi> 25. 6, 7, 8.</note> to the King, but afterward
+<pb facs="tcp:20114:43"/> forswearing himselfe, and rebelling, was periured: The Lord punished his perinry by the King of Babylon, who tooke him prisoner, slewe his sonnes, be<g ref="char:EOLhyphen"/>fore his face, then put out both his eyes, and caryed him bound into Babylon, where he was kept in misery. <hi>Edward</hi> the fourth tooke a solemne oath at <hi>Yorke,</hi>
+               <note place="margin">
+                  <hi>Edward</hi> 4.</note> to hold him contented with his owne Duke-dome, and to yeelde obedience to King <hi>Henry,</hi> but (casting away the feare of Gods glorious Name) he soone brake that oath, and God punished his periu<g ref="char:EOLhyphen"/>ry, euen in his séed, for none of his poste<g ref="char:EOLhyphen"/>rity came euer to possesse the Crowne. Take heede then howe thou kindlest Gods wrath: It is as a fire, it wil burne euen to a mans posterity. Though the anger of a King be as the roaring of a Lyon, <hi>Pro.</hi> 19. 12. yet thou mayest flee <note place="margin">
+                  <hi>Prou.</hi> 19. 12. <hi>Prou.</hi> 20. 2. <hi>Mat.</hi> 2. 14, 15. <hi>Amos</hi> 9. 3.</note> from it, as <hi>Ioseph</hi> did, <hi>Mat.</hi> 2. 14. but not from the wrath of God. <hi>Amos</hi> 9. 3. The wrath of a King may be pacified, but Gods anger may be such, that though <hi>Moses</hi> and <hi>Samuel</hi> stood before the Lord, he will not be intreated, but execute his vengeance vpon the wicked, and their vngodly posterity.</p>
+            <pb n="39" facs="tcp:20114:43"/>
+            <p> The last part sheweth vs the author of these plagues, namely, <hi>The Lord. Then the Lord will make thy plagues wonderfull.</hi> Prophane and ignorant men thinke that the plague commeth by the infecti<g ref="char:EOLhyphen"/>on of the ayre, and that they are safe e<g ref="char:EOLhyphen"/>nough if they come not into such places as are infected. But the Spirit of God here teacheth vs that God is the author of all plagues and afflictions, he punish<g ref="char:EOLhyphen"/>eth where he will, and whom he will: they beginne, continue, and increase by his appointment, neither doe they cease (though man and Angels do what they can) till the punishing Angel, by Gods appoyntment stay his hand. <hi>Gen.</hi> 19. 24 <note place="margin">
+                  <hi>Gen.</hi> 19. 24</note>
+               <hi>The Lord rayned fire and brimstone from heauen. When the land sinneth against me</hi> (sayeth the Lord) <hi>Ezek.</hi> 14. 13, 17, 19. <note place="margin">
+                  <hi>Ezek.</hi> 14. 13, 17, 19.</note>
+               <hi>I will breake the staffe of bread, I will send famine vpon it, I will destroy man and beast forth of it, ver.</hi> 7. <hi>if I bring a sword vpon the land, verse</hi> 9. <hi>if I send a pestilence into the land.</hi> It is the Lord then you sée that rained fire and brimstone vpon <hi>Sodoma,</hi> It is he that bringeth famine, sword, and pestilence into a land. When the people were vnthanfull to God for his <note place="margin">
+                  <hi>Deut.</hi> 32. 23.</note>
+               <pb facs="tcp:20114:44"/> benefits, he saith, <hi>Deut.</hi> 32. 23. <hi>I will spend plagues vpon them, I will bestow mine arrows</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 32. 23.</note>
+               <hi>vpon them. Dauid</hi> being troubled with sicknesse, though he might haue imputed it to the disorder of diet, or to other secon<g ref="char:EOLhyphen"/>dary meanes, yet hée directeth his spée<g ref="char:EOLhyphen"/>ches to God, and saith, <hi>Psal.</hi> 32. 4. <hi>Thine hand is heauie vpon me day and night. Psal.</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 32. 4. <hi>Psal.</hi> 38. 2.</note> 38. <hi>Thine arrowes sticke fast in me, and thy hand presseth me soare.</hi> When the Lord by his Prophet <hi>Gad</hi> bad <hi>Dauid</hi> make his choice of three plagues, &amp;c. 2. <hi>Sam.</hi> 24. <hi>We will</hi> (said he) <hi>fall into the hands of the Lord,</hi>
+               <note place="margin">2. <hi>Sam.</hi> 24. 13.</note>
+               <hi>and not into the hands of men.</hi> The plague then is Gods hand, and his prouidence is in it: Who then dare say, that this fearefull iudgment of God is fallen vp<g ref="char:EOLhyphen"/>on our land by chance, or other externall meanes? but it is the Lord that hath sent it: It is a blowe of his hand, and it is one of Gods Arrowes, It hittes where it pleaseth God to leuell it: God that sent it, must stay it, else it will goe thorough the land; there is no complete armour can beare off the dint of it: If thou flee into the vttermost part of the earth, thou art not free from this Ar<g ref="char:EOLhyphen"/>row of God.</p>
+            <pb n="40" facs="tcp:20114:44"/>
+            <p> Seeing then that the plague is Gods hand, and Gods Arrow: they that are wounded with it, must beare it patient<g ref="char:EOLhyphen"/>ly, and know that God will not afflict them further then for his owne glorie, and their good, and let them say with <hi>Iob Iob</hi> 1. 21. <hi>The Lord giueth, and the Lord taketh away, &amp;c.</hi> And with <hi>Ely,</hi> 1. <hi>Sam.</hi> 3. <note place="margin">
+                  <hi>Iob</hi> 1. 21. 1. <hi>Sam.</hi> 3. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>It is the Lord, let him do what seemeth him good.</hi>
+            </p>
+            <p>Secondly, the cōsideration hereof may worke humility in vs. It is the hand of God, let vs therfore humble our selues vnder it: let vs not murmur nor grudge, but rather be humbled, considering that whatsoeuer commeth, cōmeth worthily, our sinnes haue deserued worse.</p>
+            <p>Thirdly, it serueth for our comfort, for howsoeuer the wicked thinke that sick<g ref="char:EOLhyphen"/>nesses &amp; diseases come by il diet, by heat, cold, &amp;c. yet the godly do know y<seg rend="sup">t</seg> God layeth them vpon them: &amp; therefore we are to comfort our selues, considering it is the hand of our mercifull God, who correcteth vs for our good, and amend<g ref="char:EOLhyphen"/>ment, not for our destruction. Consider moreouer the afflictions of Christ, who neuer sinned, comfort thy selfe, &amp; know
+<pb facs="tcp:20114:45"/> that what thou sufferest is but as a flea-biting to that which Christ suffered for thée.</p>
+            <p>And lastly, that the more God af<g ref="char:EOLhyphen"/>flicts thee, the more he loueth thee; Let these and the like considerations com<g ref="char:EOLhyphen"/>fort them that are afflicted.</p>
+            <p>Fourthly, it serueth not only against the papists, but also against the wicked, who in sickenesse, losse of goodes, and such like, séeke to wytches, or vse secon<g ref="char:EOLhyphen"/>darie meanes, and forget God, whose hand it is that presseth them. Such a one was <hi>Ahazia.</hi> 2. <hi>Reg.</hi> 1. 2. who in his sicknes sent to <hi>Baal-zebub</hi> the god of <hi>Ek<g ref="char:EOLhyphen"/>non,</hi>
+               <note place="margin">2. <hi>Reg.</hi> 1. 2.</note> for the recouery of his health. But when Gods Arrow sticketh fast in thée, and when his hand presseth thée sore, thou shouldest rather suffer ten thousand deaths, then séeke remedy in such sort, It is God that hath wounded thée, and none but God can heale thee. If then we would haue the plague stayed or re<g ref="char:EOLhyphen"/>moued, we must séeke to God for it, by earnest prayer: all meanes shall not pre<g ref="char:EOLhyphen"/>uaile vnlesse God put to his helping hand. Let vs then labour the Lord by faithfull prayer. Let vs séeke him while
+<pb n="41" facs="tcp:20114:45"/> he may be found, and let vs often and euery day assemble our selues together in earnest prayer, that it would please him to command the punishing Angel to stay his hand and cease. This was <hi>Dauids</hi> practise, when there died by the hand of God in three dayes three score <note place="margin">2. <hi>Sam.</hi> 24. 17. 25.</note> and tenne thousand, 2. <hi>Sam</hi> 24. <hi>Dauid</hi> consecrated himselfe to the Lorde by faithfull prayer, and so the plague cea<g ref="char:EOLhyphen"/>sed. Let vs not then (brethren) make so light account of prayer as some a<g ref="char:EOLhyphen"/>mong vs doe. Faithfull prayer is of more force then some thinke it is. It hath brought fire from heauen, 2. <hi>Reg.</hi>
+               <note place="margin">2. <hi>Reg.</hi> 1. 10, 12 1. <hi>Reg.</hi> 18. 42. 2. <hi>Reg.</hi> 4. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 34.</note> 1. 10, 12. It hath brought downe raine in time of drought. 1. <hi>Reg.</hi> 18 42. It hath raised vp the dead. 2. <hi>Reg.</hi> 4. It hath made the Sunne to stand still in the <note place="margin">
+                  <hi>Ios.</hi> 10▪ 12, 13. 2 <hi>Reg.</hi> 20. 9, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <hi>Esay.</hi> 38 8. <hi>Gen.</hi> 25. 21. 1 <hi>Sam.</hi> 1. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <hi>Exod</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. 2. <hi>Reg</hi> 19 15. 2. <hi>Reg</hi> 6 18. 2. <hi>Reg.</hi> 13. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 <hi>Sam.</hi> 7. 8. <hi>Exod▪</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> mids of heauen, the space of a whole day <hi>Iosh.</hi> 10. 12, 13. and to goe backeward in his course. 2▪ <hi>Reg</hi> 20. 9, 11. It hath made the barren fruitfull. <hi>Gen▪</hi> 25. 21. 1. <hi>Sam.</hi> 1. 10. It hath vanquished enemies. <hi>Exo.</hi> 17▪ 11. 2. <hi>Reg.</hi> 19. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Chron.</hi> 20. 3, 6, 7, 8, 9. 2 <hi>Reg.</hi> 6 18. 2. <hi>Reg</hi> 13. 4. 1. <hi>Sam.</hi> 7. 8▪ <hi>Numb.</hi> 16 22. It hath stayed the plague and pacified Gods wrath. <hi>Exod.</hi> 32. 11
+<pb facs="tcp:20114:46"/>
+               <hi>Numbe.</hi> 14. 12, 13, 17. <hi>Numbers</hi> 16 48. <hi>Psal.</hi> 106. 23, 30. Whatsoeuer therfore <note place="margin">
+                  <hi>Numb.</hi> 14 12. <hi>Numb.</hi> 16. 8. <hi>Psal.</hi> 10<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 23. 30.</note> the deuill or deuilish men can say to the disgrace of prayer, let vs practise it, and be earnest with God, who hath sent his plagues vpon vs, that in his good time hee will take them away, which God for his mer<g ref="char:EOLhyphen"/>cies sake grant, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:20114:46"/>
+         </div>
+      </body>
+   </text>
+</TEI>
